@@ -1,7 +1,7 @@
 # Pittsburgh Queer History Project
 This is a template for digital collection sharing using barebones github markdown
 
-![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](vannasquare.png)
+![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/image-files/vannasquare.png)
 ## Collection Title: Vanna (aka Michael Obusek) Collection
 ### Collection Description
 Michael “Vanna” Obusek (b. July 10, 1966) is former staff of the Travelers Social Club and the Pegasus nightclub where he worked both on and off stage as a bartender, house manager, show director and drag performer between 1986 and 1999. Michael had moved to Pittsburgh from his hometown of Elizabeth, PA, at the age of 18 in search of a gay scene in city. After surviving a liquor control raid at the Traveler’s Social Club in 1986 and testifying to protect the club during a subsequent trial, Michael was offered a job as a bartender, beginning the next decade of his life in the bar business and club culture. When a workplace accident forced him to quit his position at Travelers, former co-workers helped him transition to Pegasus, where he stayed until leaving the bar scene permanently to pursue degrees in interior design and education in 1999.
@@ -18,18 +18,18 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
 
 ### Series 1: "Benefit Shows" Items (Click the linked title to watch the video on vimeo)
-![people stand on stage in front of a lit sign reading "the day after that"](dayafterthatthumb.png)
+![people stand on stage in front of a lit sign reading "the day after that"](/image-files/dayafterthatthumb.png)
 ["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
 
-!["white drag queen in a black feather headdress stands on stage holding a microphone"](vannabenefitmspghthumb.png)
+!["white drag queen in a black feather headdress stands on stage holding a microphone"](/image-files/vannabenefitmspghthumb.png)
 [Vanna's Benefit to Compete in Miss Pittsburgh, Zak's Fourth Avenue, April 10 1994](https://vimeo.com/268451159?share=copy)
 
-![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](softballbenefitthumb.png)
+![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](/image-files/softballbenefitthumb.png)
 [Steel City Softball League Benefit, Pegasus, 1987](https://vimeo.com/254171066)
 
-![a pixelated image of a performer in a silver jacket and black hair the words ms pittsburgh are printed into the frame at the bottom](valentinethumb.png)
+![a pixelated image of a performer in a silver jacket and black hair the words ms pittsburgh are printed into the frame at the bottom](/image-files/valentinethumb.png)
 [Valentines Day PATF Benefit Show, Real Luck Cafe "Lucky's", February 12 1995](https://vimeo.com/240376694)
 
-![a white man in black clothes stands on stage with a microphone](shepherdthumb.png)
+![a white man in black clothes stands on stage with a microphone](/image-files/shepherdthumb.png)
 [Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994](https://vimeo.com/240264803)
 
