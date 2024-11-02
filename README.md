@@ -27,7 +27,9 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 ![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](softballbenefitthumb.png)
 [Steel City Softball League Benefit, Pegasus, 1987](https://vimeo.com/254171066)
 
-Valentines Day PATF Benefit Show, Real Luck Cafe "Lucky's", February 12 1995
+![a pixelated image of a performer in a silver jacket and black hair the words ms pittsburgh are printed into the frame at the bottom](valentinethumb.png)
+[Valentines Day PATF Benefit Show, Real Luck Cafe "Lucky's", February 12 1995](https://vimeo.com/240376694)
 
-Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994
+![a white man in black clothes stands on stage with a microphone](shepherdthumb.png)
+[Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994](https://vimeo.com/240264803)
 
