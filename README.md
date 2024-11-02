@@ -17,11 +17,17 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 - **Series 4: Bar Show**s - Video of one-time shows, often produced by or featuring Vanna
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
 
-#### Series 1 items
-! [people stand on stage in front of a lit sign reading "the day after that"](dayafterthatthumb.png)
-- "The Day After That" Benefit, Pegasus, February 23 1994
-- Vanna's Benefit to Compete in Miss Pittsburgh, Zak's Fourth Avenue, April 10 1994
-- Steel City Softball League Benefit, Pegasus, 1987
-- Valentines Day PATF Benefit Show, Real Luck Cafe "Lucky's", February 12 1995
-- Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994
+### Series 1: "Benefit Shows" Items
+![people stand on stage in front of a lit sign reading "the day after that"](dayafterthatthumb.png)
+["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
+
+!["white drag queen in a black feather headdress stands on stage holding a microphone"](vannabenefitmspghthumb.png)
+[Vanna's Benefit to Compete in Miss Pittsburgh, Zak's Fourth Avenue, April 10 1994](https://vimeo.com/268451159?share=copy)
+
+![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](softballbenefitthumb.png)
+[Steel City Softball League Benefit, Pegasus, 1987](https://vimeo.com/254171066)
+
+Valentines Day PATF Benefit Show, Real Luck Cafe "Lucky's", February 12 1995
+
+Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994
 
