@@ -38,7 +38,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 
 ---
 ### Series 2: "Pageants" Items
-[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/xmasinjulythumb.png)]([https://vimeo.com/267347075](https://vimeo.com/267341557))
+[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/xmasinjulythumb.png)](https://vimeo.com/267347075)
 [Vanna's Christmas in July Talent Show, Pegasus](https://vimeo.com/267341557)
 
 [![a silhouetted figure begins walking across a stage with gold tinsel in the background](/collections/Vanna-Collection/image-files/firstshow92thumb.png)](https://vimeo.com/267355165?share=copy)
