@@ -16,7 +16,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 ### Series *(Items within the collection organized by topic or media)*
 - [**Series 1: Benefit Shows**](#series-1-benefit-shows-items) - Video of drag shows and other talent showcases raising funds for local organization and community members
 - [**Series 2: Talent Shows**](#series-2-talent-shows-items) - Video of recurring talent showcases hosted and organized by Vanna
-- **Series 3: Pageants** - Video of local / regional competitive pageants
+- [**Series 3: Pageants**](#series-3-pageants-items) - Video of local / regional competitive pageants
 - **Series 4: Bar Show**s - Video of one-time shows, often produced by or featuring Vanna
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
 
@@ -52,9 +52,14 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 
 ---
 ### Series 3: "Pageants" Items
-[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/xmasinjulythumb.png)](https://vimeo.com/267347075)
-[Vanna's Christmas in July Talent Show, Pegasus](https://vimeo.com/267341557)
+Miss Tri-State 1996 (Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
 
+Miss Tri-State 1995 (Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
+
+Miss Tri-State 1993 (Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
+
+[![A black performer poses with their legs crossed and arms out on stage](/collections/Vanna-Collection/image-files/vannacompanythumb.png)](https://vimeo.com/269515634)
+[Vanna & Company (Mister Pittsburgh 1997)](https://vimeo.com/269515634)
 
 
 --- 
