@@ -14,13 +14,13 @@ Michael’s drag name “Vanna” comes from the bar-adjacent Steel City Softbal
 Vanna donated these tapes to the Pittsburgh Queer History Project following an oral history interview with Harrison Apple. In their conversation, Vanna explained that the tapes are more than a product of her own work in the bar scene. They are the result of the thousands of people who made these venues a place in which they belonged. While some tapes may have been passed on from individuals, most seemed to accumulate at the bar until Vanna took them home. She has passed them on to the PQHP as a unique document of the city during the decline of private clubs, the height of the AIDS crisis, and a shift in club culture toward an imperative for public politics. As a collection, they remind us that the work of “community archives” is to recirculate these materials. We hope that as part of the PQHP archives, they provide an opportunity to both recognize the distance between ourselves and the events on-screen, as well as the immediacy and closeness of these magnetic tapes to the everyday work of remembering in the present.
 
 ### Series *(Items within the collection organized by topic or media)*
-- [**Series 1: Benefit Shows**](#series-1-benefit-shows-items-click-the-linked-title-to-watch-the-video-on-vimeo) - Video of drag shows and other talent showcases raising funds for local organization and community members
-- **Series 2: Talent Shows** - Video of recurring talent showcases hosted and organized by Vanna
+- [**Series 1: Benefit Shows**](#series-1-benefit-shows-items) - Video of drag shows and other talent showcases raising funds for local organization and community members
+- [**Series 2: Talent Shows**](#series-2-pageants-items) - Video of recurring talent showcases hosted and organized by Vanna
 - **Series 3: Pageants** - Video of local / regional competitive pageants
 - **Series 4: Bar Show**s - Video of one-time shows, often produced by or featuring Vanna
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
 
-### Series 1: "Benefit Shows" Items (click the linked title to watch the video on vimeo)
+### Series 1: "Benefit Shows" Items
 [![people stand on stage in front of a lit sign reading "the day after that"](/collections/Vanna-Collection/image-files/dayafterthatthumb.png)](https://vimeo.com/267347075)
 ["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
 
@@ -36,6 +36,23 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 [![a white man in black clothes stands on stage with a microphone](/collections/Vanna-Collection//image-files/shepherdthumb.png)](https://vimeo.com/240264803)
 [Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994](https://vimeo.com/240264803)
 
+---
+### Series 2: "Pageants" Items
+[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/xmasinjulythumb.png)]([https://vimeo.com/267347075](https://vimeo.com/267341557))
+[Vanna's Christmas in July Talent Show, Pegasus](https://vimeo.com/267341557)
+
+[![a silhouetted figure begins walking across a stage with gold tinsel in the background](/collections/Vanna-Collection/image-files/firstshow92thumb.png)](https://vimeo.com/267355165?share=copy)
+[Vanna's First Talent Show, Pegasus, June 17 1992](https://vimeo.com/267355165?share=copy)
+
+[![A figure in black pants and a white button up shirt stands on stage under paper snowflakes](/collections/Vanna-Collection/image-files/whitexmasthumb.png)](https://vimeo.com/268466955?share=copy)
+[Vanna White Christmas Talent Show, Special Guest Kierra, Pegasus, December 15 1993](https://vimeo.com/268466955?share=copy)
+
+[![]()](https://vimeo.com/269506851)
+[Vanna's Talent Show, Special Guest Kierra, November 1992](https://vimeo.com/269506851)
+
+--- 
+
 [Top of Page](#pittsburgh-queer-history-project)
 
 [Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+
