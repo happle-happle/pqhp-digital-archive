@@ -1,6 +1,6 @@
 # Collections
 
-![white drag queen in blonde up-do](collections/Vanna-Collection/image-files/vannasquare.png)
+[![white drag queen in blonde up-do](collections/Vanna-Collection/image-files/vannasquare.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/VannaCollection.md)
 
 [Vanna (aka Michael Obusek) Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/VannaCollection.md)
 
