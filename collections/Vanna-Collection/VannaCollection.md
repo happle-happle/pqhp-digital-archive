@@ -52,11 +52,11 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 
 ---
 ### Series 3: "Pageants" Items
-Miss Tri-State 1996 (Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
+Miss Tri-State 1996, Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
 
-Miss Tri-State 1995 (Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
+Miss Tri-State 1995, Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
 
-Miss Tri-State 1993 (Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
+Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
 
 [![A black performer poses with their legs crossed and arms out on stage](/collections/Vanna-Collection/image-files/vannacompanythumb.png)](https://vimeo.com/269515634)
 [Vanna & Company (Mister Pittsburgh 1997)](https://vimeo.com/269515634)
