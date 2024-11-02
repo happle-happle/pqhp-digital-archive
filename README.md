@@ -1,4 +1,4 @@
-# Collection
+# Collections
 
 ![white drag queen in blonde up-do](collections/Vanna-Collection/image-files/vannasquare.png)
 
