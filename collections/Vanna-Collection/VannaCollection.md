@@ -15,7 +15,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 
 ### Series *(Items within the collection organized by topic or media)*
 - [**Series 1: Benefit Shows**](#series-1-benefit-shows-items) - Video of drag shows and other talent showcases raising funds for local organization and community members
-- [**Series 2: Talent Shows**](#series-2-pageants-items) - Video of recurring talent showcases hosted and organized by Vanna
+- [**Series 2: Talent Shows**](#series-2-talent-shows-items) - Video of recurring talent showcases hosted and organized by Vanna
 - **Series 3: Pageants** - Video of local / regional competitive pageants
 - **Series 4: Bar Show**s - Video of one-time shows, often produced by or featuring Vanna
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
@@ -37,7 +37,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 [Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994](https://vimeo.com/240264803)
 
 ---
-### Series 2: "Pageants" Items
+### Series 2: "Talent Shows" Items
 [![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/xmasinjulythumb.png)](https://vimeo.com/267347075)
 [Vanna's Christmas in July Talent Show, Pegasus](https://vimeo.com/267341557)
 
@@ -49,6 +49,13 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 
 [![a black drag queen in a silver sequen dress accepts a dollar from a white audience member in black pants and suspenders](/collections/Vanna-Collection/image-files/talentshowkierranov92thumb.png)](https://vimeo.com/269506851)
 [Vanna's Talent Show, Special Guest Kierra, November 1992](https://vimeo.com/269506851)
+
+---
+### Series 3: "Pageants" Items
+[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/xmasinjulythumb.png)](https://vimeo.com/267347075)
+[Vanna's Christmas in July Talent Show, Pegasus](https://vimeo.com/267341557)
+
+
 
 --- 
 
