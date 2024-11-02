@@ -1,5 +1,7 @@
-# Collections
+# Browse the PQHP Collections On this Page
+*Selected collections are donated with permission to be digitally shared with the public. For more information, please contact Harrison Apple happle@andrew.cmu.edu* 
 
+---
 [![white drag queen in blonde up-do](collections/Vanna-Collection/image-files/vannasquare.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/VannaCollection.md)
 
 [Vanna (aka Michael Obusek) Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/VannaCollection.md)
