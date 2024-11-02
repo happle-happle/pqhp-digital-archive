@@ -1,6 +1,9 @@
 # Pittsburgh Queer History Project
 This is a template for digital collection sharing using barebones github markdown
 
+[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+
+
 ![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/collections/Vanna-Collection/image-files/vannasquare.png)
 ## Collection Title: Vanna (aka Michael Obusek) Collection
 ### Collection Description
@@ -33,3 +36,5 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 ![a white man in black clothes stands on stage with a microphone](/collections/Vanna-Collection//image-files/shepherdthumb.png)
 [Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994](https://vimeo.com/240264803)
 
+[Go to Top](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/VannaCollection.md)
+[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
