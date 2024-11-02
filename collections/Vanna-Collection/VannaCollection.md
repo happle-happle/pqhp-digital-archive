@@ -17,9 +17,10 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 - [**Series 1: Benefit Shows**](#series-1-benefit-shows-items) - Video of drag shows and other talent showcases raising funds for local organization and community members
 - [**Series 2: Talent Shows**](#series-2-talent-shows-items) - Video of recurring talent showcases hosted and organized by Vanna
 - [**Series 3: Pageants**](#series-3-pageants-items) - Video of local / regional competitive pageants
-- **Series 4: Bar Show**s - Video of one-time shows, often produced by or featuring Vanna
+- [**Series 4: Bar Shows**](#series-4-bar-shows-items) - Video of one-time shows, often produced by or featuring Vanna
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
 
+---
 ### Series 1: "Benefit Shows" Items
 [![people stand on stage in front of a lit sign reading "the day after that"](/collections/Vanna-Collection/image-files/dayafterthatthumb.png)](https://vimeo.com/267347075)
 ["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
@@ -60,6 +61,20 @@ Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Dars
 
 [![A black performer poses with their legs crossed and arms out on stage](/collections/Vanna-Collection/image-files/vannacompanythumb.png)](https://vimeo.com/269515634)
 [Vanna & Company (Mister Pittsburgh 1997)](https://vimeo.com/269515634)
+
+---
+### Series 4: "Bar Shows" Items
+[![a white drag queen in a white robe and red wig speaks onstage with a microphone surrounded by christams deocrations](/collections/Vanna-Collection/image-files/twelvedragsthumb.png)](https://vimeo.com/267335600?share=copy)
+[Twelve Drags of Christmas, Pegasus](https://vimeo.com/267335600?share=copy)
+
+[![a white man in a red polo shirt and jeans stands on stage in the spotlight announcing the show](/collections/Vanna-Collection/image-files/masqueradethumb.png)](https://vimeo.com/267347456?share=copy)
+["The Masquerade" Starring Vanna, Pegasus, November 17 1994](https://vimeo.com/267347456?share=copy)
+
+[![a white drag queen in a pink tutu dress and blonde wig stands on stage](/collections/Vanna-Collection/image-files/vanna30thumb.png)](https://vimeo.com/267352670)
+["The Masquerade" Starring Vanna, Pegasus, November 17 1994](https://vimeo.com/267352670)
+
+[![a black queen lip synchs in the spotlight, a close up of her face, her hand held up to her cheek and ear, wearing a crystal tiara](/collections/Vanna-Collection/image-files/divamilanthumb.png)](https://vimeo.com/268417204)
+[Diva! The Many Faces of Milan, Pegasus, August 17 1994](https://vimeo.com/268417204)
 
 
 --- 
