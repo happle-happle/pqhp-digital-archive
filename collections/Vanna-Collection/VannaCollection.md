@@ -21,19 +21,21 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
 
 ### Series 1: "Benefit Shows" Items (click the linked title to watch the video on vimeo)
-![people stand on stage in front of a lit sign reading "the day after that"](/collections/Vanna-Collection/image-files/dayafterthatthumb.png)
+[![people stand on stage in front of a lit sign reading "the day after that"](/collections/Vanna-Collection/image-files/dayafterthatthumb.png)](https://vimeo.com/267347075)
 ["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
 
-!["white drag queen in a black feather headdress stands on stage holding a microphone"](/collections/Vanna-Collection//image-files/vannabenefitmspghthumb.png)
+[!["white drag queen in a black feather headdress stands on stage holding a microphone"](/collections/Vanna-Collection//image-files/vannabenefitmspghthumb.png)](https://vimeo.com/268451159?share=copy)
 [Vanna's Benefit to Compete in Miss Pittsburgh, Zak's Fourth Avenue, April 10 1994](https://vimeo.com/268451159?share=copy)
 
-![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](/collections/Vanna-Collection//image-files/softballbenefitthumb.png)
+[![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](/collections/Vanna-Collection//image-files/softballbenefitthumb.png)](https://vimeo.com/254171066)
 [Steel City Softball League Benefit, Pegasus, 1987](https://vimeo.com/254171066)
 
-![a pixelated image of a performer in a silver jacket and black hair the words ms pittsburgh are printed into the frame at the bottom](/collections/Vanna-Collection//image-files/valentinethumb.png)
+[![a pixelated image of a performer in a silver jacket and black hair the words ms pittsburgh are printed into the frame at the bottom](/collections/Vanna-Collection//image-files/valentinethumb.png)](https://vimeo.com/240376694)
 [Valentines Day PATF Benefit Show, Real Luck Cafe "Lucky's", February 12 1995](https://vimeo.com/240376694)
 
-![a white man in black clothes stands on stage with a microphone](/collections/Vanna-Collection//image-files/shepherdthumb.png)
+[![a white man in black clothes stands on stage with a microphone](/collections/Vanna-Collection//image-files/shepherdthumb.png)](https://vimeo.com/240264803)
 [Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994](https://vimeo.com/240264803)
+
+[Top of Page](#pittsburgh-queer-history-project)
 
 [Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
