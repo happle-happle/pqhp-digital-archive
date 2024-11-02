@@ -47,7 +47,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 [![A figure in black pants and a white button up shirt stands on stage under paper snowflakes](/collections/Vanna-Collection/image-files/whitexmasthumb.png)](https://vimeo.com/268466955?share=copy)
 [Vanna White Christmas Talent Show, Special Guest Kierra, Pegasus, December 15 1993](https://vimeo.com/268466955?share=copy)
 
-[![]()](https://vimeo.com/269506851)
+[![a black drag queen in a silver sequen dress accepts a dollar from a white audience member in black pants and suspenders](/collections/Vanna-Collection/image-files/talentshowkierranov92thumb.png)](https://vimeo.com/269506851)
 [Vanna's Talent Show, Special Guest Kierra, November 1992](https://vimeo.com/269506851)
 
 --- 
