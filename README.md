@@ -17,7 +17,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 - **Series 4: Bar Show**s - Video of one-time shows, often produced by or featuring Vanna
 - **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
 
-### Series 1: "Benefit Shows" Items (Click the linked title to watch the video on vimeo)
+### Series 1: "Benefit Shows" Items (click the linked title to watch the video on vimeo)
 ![people stand on stage in front of a lit sign reading "the day after that"](/image-files/dayafterthatthumb.png)
 ["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
 
