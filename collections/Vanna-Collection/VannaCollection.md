@@ -18,7 +18,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 - [**Series 2: Talent Shows**](#series-2-talent-shows-items) - Video of recurring talent showcases hosted and organized by Vanna
 - [**Series 3: Pageants**](#series-3-pageants-items) - Video of local / regional competitive pageants
 - [**Series 4: Bar Shows**](#series-4-bar-shows-items) - Video of one-time shows, often produced by or featuring Vanna
-- **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers.
+- **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers. (pending upload)
 
 ---
 ### Series 1: "Benefit Shows" Items
