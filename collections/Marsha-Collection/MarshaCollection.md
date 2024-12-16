@@ -32,6 +32,20 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 [![Drag queen in a white sleevelsss dress and tiara at the microphone](/collections/Marsha-Collection/image-files/missthreerivers96.png)](https://vimeo.com/1037271436)
 [Miss Three Rivers 1996 Pageant](https://vimeo.com/1037271436)
 
+[![Drag queen in an american flag outfit including Oversized Top Hat](/collections/Marsha-Collection/image-files/misspeg2000.png)](https://vimeo.com/1037249549)
+[Miss Pegasus 2000 Pageant](https://vimeo.com/1037249549)
+
+[![Drag Queen in a cow print jacket and cowboy hat](/collections/Marsha-Collection/image-files/missteen2000.png)](https://vimeo.com/1037242051)
+[Miss Teen 2000 Pageant](https://vimeo.com/1037242051)
+
+[![Drag Queen in a vertical black and white stripe dress and black beehive hairdo stands on stage](/collections/Marsha-Collection/image-files/iconscafe.png)](https://vimeo.com/1037224639)
+[Miss Teen 2000 Pageant](https://vimeo.com/1037224639)
+
+[![Drag queen with large blonde wig stands in bisexual lighting with mic up to their mouth](/collections/Marsha-Collection/image-files/assortedthumb.png)](https://vimeo.com/1037221028)
+[Miss Teen 2000 Pageant](https://vimeo.com/1037221028)
+
+[![Drag queen in a spotlight and nuns habit on stage at Pegasus](/collections/Marsha-Collection/image-files/marshabday.png)](https://vimeo.com/1037219111)
+[Marsha Birthday 2001](https://vimeo.com/1037219111)
 
 ### Series 2: "Paper Ephemera" Items
 *pending scans*
