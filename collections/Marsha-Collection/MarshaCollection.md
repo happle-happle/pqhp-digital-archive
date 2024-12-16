@@ -60,7 +60,7 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 [Liberty Avenue Saloon  - Mario Benefit Tape 1](https://vimeo.com/1037191521)
 
 [![Liberty Avenue Saloon - Mario Benefit Tape 2](/collections/Marsha-Collection/image-files/mario2.png)](https://vimeo.com/1037194934)
-[Liberty Avenue Saloon  - Mario Benefit Tape 1](https://vimeo.com/1037194934)
+[Liberty Avenue Saloon  - Mario Benefit Tape 2](https://vimeo.com/1037194934)
 
 
 ### Series 2: "Paper Ephemera" Items
