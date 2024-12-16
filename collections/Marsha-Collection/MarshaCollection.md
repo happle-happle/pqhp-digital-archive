@@ -21,7 +21,7 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 ---
 ### Series 1: "Compilations" Items
 [![drag queen with black up-do, silver top and arms akimbo](/collections/Marsha-Collection/image-files/marsha01thumb.png)](https://vimeo.com/1026877317)
-["Drag Show" Compilation Including Miss Teen Pgh 1995, La Cage aux Folles at Pegasus, and Miss Pegasus 1993](https://vimeo.com/1037276815)
+[Compilation: Miss Teen Pgh 1995, La Cage aux Folles at Pegasus, and Miss Pegasus 1993](https://vimeo.com/1037276815)
 
 [![Drag queen in a white dress and a platinum blonde wig stares into the camera with her arms outstretched](/collections/Marsha-Collection/image-files/candace.png)](https://vimeo.com/1037276815)
 [Miss Continental 2001 Featuring Candace Cayne](https://vimeo.com/1037276815)
