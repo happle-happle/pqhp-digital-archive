@@ -15,7 +15,7 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 
 ### Series *(Items within the collection organized by topic or media)*
 - [**Series 1: Compilations**](#series-1-benefit-shows-items) - Video of drag shows including bar shows, pageants, and fundraisers.
-- [**Series 2: Paper Ephemera**](#series-2-paper-ephemera-items) - Video of recurring talent showcases hosted and organized by Vanna
+- [**Series 2: Paper Ephemera**](#series-2-paper-ephemera-items) - Paper materials including pageant rules, interview questions, and documentation of host venues.
 
 
 ---
