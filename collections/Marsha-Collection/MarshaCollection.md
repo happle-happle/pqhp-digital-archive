@@ -14,14 +14,38 @@ Marsha (aka Mark Wilkes) had come of age in the Pittsburgh gay nightclub, becomi
 Marsha's collection was lent for digitization in the summer of 2024. Many of the tapes have typical artifacts of mold damager and tape stretch, producing watchable but often interrupted digital captures. 
 
 ### Series *(Items within the collection organized by topic or media)*
-- [**Series 1: Compilations**](#series-1-benefit-shows-items) - Video of drag shows and other talent showcases raising funds for local organization and community members
+- [**Series 1: Compilations**](#series-1-benefit-shows-items) - Video of drag shows including bar shows, pageants, and fundraisers.
 - [**Series 2: Paper Ephemera**](#series-2-paper-ephemera-items) - Video of recurring talent showcases hosted and organized by Vanna
 
 
 ---
 ### Series 1: "Compilations" Items
 [![drag queen with black up-do, silver top and arms akimbo](/collections/Marsha-Collection/image-files/marsha01thumb.png)](https://vimeo.com/1026877317)
-["Drag Show" Compilation Including Miss Teen Pgh 1995, La Cage aux Folles at Pegasus, and Miss Pegasus 1993](https://vimeo.com/1026877317)
+["Drag Show" Compilation Including Miss Teen Pgh 1995, La Cage aux Folles at Pegasus, and Miss Pegasus 1993](https://vimeo.com/1037276815)
+
+[![Drag queen in a white dress and a platinum blonde wig stares into the camera with her arms outstretched](/collections/Marsha-Collection/image-files/candace.png)](https://vimeo.com/1037276815)
+[Miss Continental 2001 Featuring Candace Cayne](https://vimeo.com/1037276815)
+
+[![OBSERVED written in white block letters over a black background](/collections/Marsha-Collection/image-files/observed.png)](https://vimeo.com/1037276815)
+[Observed by Ray Kozar starring Marsha Mellow](https://vimeo.com/1037276643)
+
+[![Drag queen in a white sleevelsss dress and tiara at the microphone](/collections/Marsha-Collection/image-files/missthreerivers96.png)](https://vimeo.com/1037271436)
+[Miss Three Rivers 1996 Pageant](https://vimeo.com/1037271436)
+
+[![Drag queen in an american flag outfit including Oversized Top Hat](/collections/Marsha-Collection/image-files/misspeg2000.png)](https://vimeo.com/1037249549)
+[Miss Pegasus 2000 Pageant](https://vimeo.com/1037249549)
+
+[![Drag Queen in a cow print jacket and cowboy hat](/collections/Marsha-Collection/image-files/missteen2000.png)](https://vimeo.com/1037242051)
+[Miss Teen 2000 Pageant](https://vimeo.com/1037242051)
+
+[![Drag Queen in a vertical black and white stripe dress and black beehive hairdo stands on stage](/collections/Marsha-Collection/image-files/iconscafe.png)](https://vimeo.com/1037224639)
+[Miss Teen 2000 Pageant](https://vimeo.com/1037224639)
+
+[![Drag queen with large blonde wig stands in bisexual lighting with mic up to their mouth](/collections/Marsha-Collection/image-files/assortedthumb.png)](https://vimeo.com/1037221028)
+[Miss Teen 2000 Pageant](https://vimeo.com/1037221028)
+
+[![Drag queen in a spotlight and nuns habit on stage at Pegasus](/collections/Marsha-Collection/image-files/marshabday.png)](https://vimeo.com/1037219111)
+[Marsha Birthday 2001](https://vimeo.com/1037219111)
 
 ### Series 2: "Paper Ephemera" Items
 *pending scans*
