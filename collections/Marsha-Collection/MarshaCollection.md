@@ -14,14 +14,24 @@ Marsha (aka Mark Wilkes) had come of age in the Pittsburgh gay nightclub, becomi
 Marsha's collection was lent for digitization in the summer of 2024. Many of the tapes have typical artifacts of mold damager and tape stretch, producing watchable but often interrupted digital captures. 
 
 ### Series *(Items within the collection organized by topic or media)*
-- [**Series 1: Compilations**](#series-1-benefit-shows-items) - Video of drag shows and other talent showcases raising funds for local organization and community members
+- [**Series 1: Compilations**](#series-1-benefit-shows-items) - Video of drag shows including bar shows, pageants, and fundraisers.
 - [**Series 2: Paper Ephemera**](#series-2-paper-ephemera-items) - Video of recurring talent showcases hosted and organized by Vanna
 
 
 ---
 ### Series 1: "Compilations" Items
 [![drag queen with black up-do, silver top and arms akimbo](/collections/Marsha-Collection/image-files/marsha01thumb.png)](https://vimeo.com/1026877317)
-["Drag Show" Compilation Including Miss Teen Pgh 1995, La Cage aux Folles at Pegasus, and Miss Pegasus 1993](https://vimeo.com/1026877317)
+["Drag Show" Compilation Including Miss Teen Pgh 1995, La Cage aux Folles at Pegasus, and Miss Pegasus 1993](https://vimeo.com/1037276815)
+
+[![Drag queen in a white dress and a platinum blonde wig stares into the camera with her arms outstretched](/collections/Marsha-Collection/image-files/candace.png)](https://vimeo.com/1037276815)
+[Miss Continental 2001 Featuring Candace Cayne](https://vimeo.com/1037276815)
+
+[![OBSERVED written in white block letters over a black background](/collections/Marsha-Collection/image-files/observed.png)](https://vimeo.com/1037276815)
+[Observed by Ray Kozar starring Marsha Mellow](https://vimeo.com/1037276643)
+
+[![Drag queen in a white sleevelsss dress and tiara at the microphone](/collections/Marsha-Collection/image-files/missthreerivers96.png)](https://vimeo.com/1037271436)
+[Miss Three Rivers 1996 Pageant](https://vimeo.com/1037271436)
+
 
 ### Series 2: "Paper Ephemera" Items
 *pending scans*
