@@ -47,6 +47,22 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 [![Drag queen in a spotlight and nuns habit on stage at Pegasus](/collections/Marsha-Collection/image-files/marshabday.png)](https://vimeo.com/1037219111)
 [Marsha Birthday 2001](https://vimeo.com/1037219111)
 
+[![Drag Queen in a gold sequin dress and crown](/collections/Marsha-Collection/image-files/mspgh96.png)](https://vimeo.com/1037212316)
+[Ms Pittsburgh 1996 Tape 1](https://vimeo.com/1037212316)
+
+[![Drag Queen in a fur coat and ratted hair](/collections/Marsha-Collection/image-files/thxgiving.png)](https://vimeo.com/1037201433)
+[Marsha Thanksgiving Special on Brian T's Dream Factory - PCTV21](https://vimeo.com/1037201433)
+
+[![Drag queen in a black plunging neckline dress alone in spotlight](/collections/Marsha-Collection/image-files/maxi.png)](https://vimeo.com/1037197732)
+[Maxi Tampon March Madness](https://vimeo.com/1037197732)
+
+[![Liberty Avenue Saloon - Mario Benefit Tape 1](/collections/Marsha-Collection/image-files/mario1.png)](https://vimeo.com/1037191521)
+[Liberty Avenue Saloon  - Mario Benefit Tape 1](https://vimeo.com/1037191521)
+
+[![Liberty Avenue Saloon - Mario Benefit Tape 2](/collections/Marsha-Collection/image-files/mario2.png)](https://vimeo.com/1037194934)
+[Liberty Avenue Saloon  - Mario Benefit Tape 1](https://vimeo.com/1037194934)
+
+
 ### Series 2: "Paper Ephemera" Items
 *pending scans*
 
