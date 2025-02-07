@@ -45,3 +45,9 @@ Catalog description includes:
 [![a blonde drag queen sits at a desk in a black dress with the text folio papers and its murray avenue address](/collections/Sandy-Beach-Collection/image-files/papersthumb.png)](https://vimeo.com/355874847?share=copy) [Folio Papers Commercial, March 20 1999](https://vimeo.com/355874847?share=copy)
 
 [![a drag queen leans her head on a marble and brass newel post](/collections/Sandy-Beach-Collection/image-files/victimsthumb.png)](https://vimeo.com/355874847?share=copy) [Victims of Fantasy Lipsynch, Gay Cable Network](https://vimeo.com/455594708?share=copy)
+
+--- 
+
+[Top of Page](#pittsburgh-queer-history-project)
+
+[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
