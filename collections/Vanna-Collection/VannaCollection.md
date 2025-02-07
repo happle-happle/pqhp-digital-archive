@@ -78,13 +78,15 @@ Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Dars
 
 ### Series 5: "Photographs" Items
 
-- #### Glamor Shots, Undated, Photographs by John Colombo
-<p float="left">
-  <a href="/collections/Vanna-Collection/image-files/pageant1thumb.jpg"/><img src="/collections/Vanna-Collection/image-files/pageant1.jpeg)" width="100" /></a>
-</p>
+- #### Miss Pittsburgh 1996 Pageant Program
+[![backcover of the ms pgh 1996 pageant program](/collections/Vanna-Collection/image-files/pageant1thumb.jpg)](/collections/Vanna-Collection/image-files/pageant1.jpeg) [![cover of the ms pgh 1996 pageantprogram](/collections/Vanna-Collection/image-files/pageant2thumb.png)](/collections/Vanna-Collection/image-files/pageant2.jpeg) [![interior of the ms pgh 1996 pageant program](/collections/Vanna-Collection/image-files/pageant3thumb.png)](/collections/Vanna-Collection/image-files/pageant3.jpg)
 
-Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/Performer John Colombo. These photo positives were produced digitally from the scanned negatives by Harrison Apple for the Pittsburgh Queer History Project. Originals remain with Sandy.
+Scans of the 1996 Miss Pittsburgh Pageant with a list of former title holders and a hand written note by Vanna of the 1996 Winner, Jezebel Bebbington D'Opulence.
 
+- #### Vanna and Friends
+[![Vanna with foxy](/collections/Vanna-Collection/image-files/vannafoxythumb.png)](/collections/Vanna-Collection/image-files/vannafoxy.jpg) [![Vanna with friends](/collections/Vanna-Collection/image-files/vannafriendsthumb.png)](/collections/Vanna-Collection/image-files/vannafriends.jpg) [![glamor shot of Toffee English](/collections/Vanna-Collection/image-files/toffeethumb.png)](/collections/Vanna-Collection/image-files/toffee.jpg) [![Headshot of Eva Destruction](/collections/Vanna-Collection/image-files/evathumb.png)](/collections/Vanna-Collection/image-files/e19473aea9bea53169ec28c77379fef2.JPEG)
+
+Photos of Vanna and her friends including Foxy (neon bright outfit), Toffee English (Solo full body black and white), and Eva Destruction (Headshot)
 
 --- 
 
