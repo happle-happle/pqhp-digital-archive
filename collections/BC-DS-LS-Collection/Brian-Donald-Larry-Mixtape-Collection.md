@@ -24,9 +24,14 @@ Donald Sheffey, now running his own real estate businesses in Manhattan and the 
 ["Zack's Fourth Ave Last Mix" by Donald Sheffey](https://www.mixcloud.com/pqhp/last-mix-donald-sheffey)
 (Undated)
 
-[![Cassette Jcard labeled "dance bar music"](/collections/BC-DS-LS-Collection/image-files/dancebarmusicthumb.png)](https://www.mixcloud.com/pqhp/zacks-4th-avenue-dance-singles-may-1988-mix-by-larry-seaman)
+[![Cassette Jcard labeled "dance bar music"](/collections/BC-DS-LS-Collection/image-files/dancebarmusicthumb.png)](https://www.mixcloud.com/pqhp/zacks-4th-avenue-dance-bar-music-mix-by-larry-seaman)
 
-["Zacky's Fourth Ave May 1988 Singles" by Larry Seaman](https://www.mixcloud.com/pqhp/zacks-4th-avenue-dance-singles-may-1988-mix-by-larry-seaman)
+["Zacky's Fourth Ave Dance Bar Music" by Larry Seaman](https://www.mixcloud.com/pqhp/zacks-4th-avenue-dance-bar-music-mix-by-larry-seaman/)
+(Undated)
+
+[![Cassette Jcard labeled "Dance Music Singles May 1988"](/collections/BC-DS-LS-Collection/image-files/may1988singlesthumb.png)](https://www.mixcloud.com/pqhp/zacks-4th-avenue-dance-singles-may-1988-mix-by-larry-seaman)
+
+["Zacky's Fourth Ave Dance Music Singles May 1988" by Larry Seaman](https://www.mixcloud.com/pqhp/zacks-4th-avenue-dance-singles-may-1988-mix-by-larry-seaman)
 (1988)
 
 [![Cassette Jcard labeled "Mix #2"](/collections/BC-DS-LS-Collection/image-files/mix2thumb.png)](https://www.mixcloud.com/pqhp/zacks-4-avenue-2-donald-sheffey-mix)
