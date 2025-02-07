@@ -4,7 +4,7 @@ This is a template for digital collection sharing using barebones github markdow
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
 
-![image of a norreh shirt](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooksthumb.jpg)
+[![image of a norreh shirt](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooksthumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Cynthia-Bruno-Gill-Collection/Cynthia-Collection.md)
 ## Collection Title: Cynthia Bruno-Gill Collection
 ### Collection Description
 This collection consists of materials donated by Cindy Bruno-Gill after participating in a series of oral history interviews with Harrison Apple about her life in the massage parlor business in Pittsburgh Pennsylvania. The materials (a shirt and matchbook from the Norreh Social Club in Polish Hill, and a matchbook from Shawn's in Uptown) reflect her patronage of specific lesbian bar spaces in Pittsburgh, as well as the social world she became connected to through her relationship and later marriage to Dante "Tex" Gill. Cynthia first met Tex at Shawn's and would occasionally join him to clubs, along with close friend and confidant Frank Cocchiara and "Shooby". The upstairs bar of the Norreh (later 'Donny's Place') had been a well known lesbian after-hours social space between the late 1970s and into early 2000s, while Shawn's closed some time in the mid to late 1970s.
