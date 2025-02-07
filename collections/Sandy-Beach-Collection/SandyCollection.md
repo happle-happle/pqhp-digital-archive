@@ -25,7 +25,7 @@ She shared her materials with the Pittsburgh Queer History Project after an inte
   <img src="/collections/Sandy-Beach-Collection/image-files/glamor5thumb.jpg" width="100" />
 </p>
 
--- Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/Performer John Colombo. These photo positives were produced digitally from the scanned negatives by Harrison Apple for the Pittsburgh Queer History Project. Originals remain with Sandy.
+Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/Performer John Colombo. These photo positives were produced digitally from the scanned negatives by Harrison Apple for the Pittsburgh Queer History Project. Originals remain with Sandy.
 
 - #### Design By Brett Mail Order Catalog, Undated
 <p float="left">
