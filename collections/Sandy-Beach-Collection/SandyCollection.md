@@ -18,7 +18,7 @@ She shared her materials with the Pittsburgh Queer History Project after an inte
 ### Series 1: "Print Material" Items
 - #### Glamor Shots, Undated, Photographs by John Colombo
 <p float="left">
-  <img src="/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg" width="100" />
+  <a href="/collections/Sandy-Beach-Collection/image-files/glamor1.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg" width="100" />
   <img src="/collections/Sandy-Beach-Collection/image-files/glamor2thumb.jpg" width="100" />
   <img src="/collections/Sandy-Beach-Collection/image-files/glamor3thumb.jpg" width="100" />
   <img src="/collections/Sandy-Beach-Collection/image-files/glamor4thumb.jpg" width="100" />
