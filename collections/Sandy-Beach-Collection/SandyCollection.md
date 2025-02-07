@@ -16,6 +16,13 @@ She shared her materials with the Pittsburgh Queer History Project after an inte
 - [**Series 2: Video Material**](#series-2-video-items) - Video footage from Sandy Beach's personal collection
 
 ### Series 1: "Print Material" Items
+<p float="left">
+  <img src="/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg" width="100" />
+  <img src="/collections/Sandy-Beach-Collection/image-files/glamor2thumb.jpg" width="100" />
+  <img src="/collections/Sandy-Beach-Collection/image-files/glamor3thumb.jpg" width="100" />
+  <img src="/collections/Sandy-Beach-Collection/image-files/glamor4thumb.jpg" width="100" />
+  <img src="/collections/Sandy-Beach-Collection/image-files/glamor5thumb.jpg" width="100" />
+</p>
 Glamor Shots of Sandy Beach by Photographer John Columbo (Undated)
 
 Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/Performer John Colombo. These photo positives were produced digitally from the scanned negatives by Harrison Apple for the Pittsburgh Queer History Project. Originals remain with Sandy.
