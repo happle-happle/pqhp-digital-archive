@@ -21,3 +21,9 @@
 [Sandy Beach Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/SandyCollection.md)
 
 - Sandy Beach is an interior designer from Pittsburgh, Pennsylvania, who was also active as a model and drag performer through the 1980s and 1990s including the title of runner up for Miss Pittsburgh 1988. Known for her mid century fashion and makeup, she was frequently hired to perform as a model for the growing vintage market in Pittsburgh, inlcuding advertising for the Ellsworth Avenue boutiques "Eons" and "Hey Betty!"...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/SandyCollection.md)
+
+[![two matchbooks from Shawn's 1209 and the Norreh Social Club](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooksthumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Cynthia-Bruno-Gill-Collection/Cynthia-Collection.md)
+
+[Cynthia Bruno-Gill Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Cynthia-Bruno-Gill-Collection/Cynthia-Collection.md)
+
+- This collection consists of materials donated by Cindy Bruno-Gill after participating in a series of oral history interviews with Harrison Apple about her life in the massage parlor business in Pittsburgh Pennsylvania. The materials (a shirt and matchbook from the Norreh Social Club in Polish Hill, and a matchbook from Shawn's in Uptown) reflect her patronage of specific lesbian bar spaces in Pittsburgh, as well as the social world she became connected to through her relationship and later marriage to Dante "Tex" Gill. ...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Cynthia-Bruno-Gill-Collection/Cynthia-Collection.md)
