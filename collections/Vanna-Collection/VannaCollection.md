@@ -78,6 +78,12 @@ Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Dars
 
 ### Series 5: "Photographs" Items
 
+- #### Glamor Shots, Undated, Photographs by John Colombo
+<p float="left">
+  <a href="/collections/Vanna-Collection/image-files/pageant1thumb.jpg"/><img src="/collections/Vanna-Collection/image-files/pageant1.jpeg)" width="100" /></a>
+</p>
+
+Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/Performer John Colombo. These photo positives were produced digitally from the scanned negatives by Harrison Apple for the Pittsburgh Queer History Project. Originals remain with Sandy.
 
 
 --- 
