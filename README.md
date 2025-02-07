@@ -63,4 +63,4 @@ The donated footage includes both edited and in-progress works, often with varyi
 
 [Top of Page](#Browse-the-PQHP-Collections-On-this-Page)
 
-[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to PQHP Website](https://www.pittsburghqueerhistory.com)
