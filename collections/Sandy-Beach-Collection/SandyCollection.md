@@ -18,11 +18,11 @@ She shared her materials with the Pittsburgh Queer History Project after an inte
 ### Series 1: "Print Material" Items
 - #### Glamor Shots, Undated, Photographs by John Colombo
 <p float="left">
-  <a href="/collections/Sandy-Beach-Collection/image-files/glamor1.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg" width="100" />
-  <img src="/collections/Sandy-Beach-Collection/image-files/glamor2thumb.jpg" width="100" />
-  <img src="/collections/Sandy-Beach-Collection/image-files/glamor3thumb.jpg" width="100" />
-  <img src="/collections/Sandy-Beach-Collection/image-files/glamor4thumb.jpg" width="100" />
-  <img src="/collections/Sandy-Beach-Collection/image-files/glamor5thumb.jpg" width="100" />
+  <a href="/collections/Sandy-Beach-Collection/image-files/glamor1.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/glamor2.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor2thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/glamor3.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor3thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/glamor4.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor4thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/glamor5.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor5thumb.jpg" width="100" /></a>
 </p>
 
 Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/Performer John Colombo. These photo positives were produced digitally from the scanned negatives by Harrison Apple for the Pittsburgh Queer History Project. Originals remain with Sandy.
