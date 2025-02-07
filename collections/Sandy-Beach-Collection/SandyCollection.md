@@ -29,8 +29,8 @@ Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/
 
 - #### Design By Brett Mail Order Catalog, Undated
 <p float="left">
-  <img src="/collections/Sandy-Beach-Collection/image-files/bretdesign1thumb.jpg" width="100" />
-  <img src="/collections/Sandy-Beach-Collection/image-files/bretdesign2thumb.jpg" width="100" />
+  <a href="/collections/Sandy-Beach-Collection/image-files/bretdesign.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/bretdesign1thumb.jpg" width="100" />
+  <a href="/collections/Sandy-Beach-Collection/image-files/bretdesign2.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/bretdesign2thumb.jpg" width="100" />
 </p>
 Mail order catalog for Pittsburgh based screen-print / design company "Design by Brett T shirts" located at 2460 Saunders Station Pittsburgh PA 15146.
 
