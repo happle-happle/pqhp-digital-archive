@@ -15,3 +15,9 @@
 [Marsha Monster Mellow Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/MarshaCollection.md)
 
 - Marsha Mellow Collection contains tapes and documents from the Pittsburgh nightlife scene with emphasis on drag shows at Pegasus Lounge located at 818 Liberty Avenue in Downtown Pittsburgh. Marsha (aka Mark Wilkes) had come of age in the Pittsburgh gay nightclub, becoming a fixture in bar productions as well as regional pageants. Her own tape collection covers stage productions, benefit shows, and bar shows that help illustrate the DIY queer and gay drag cabaret scene in the city, entangled with local on-the-ground activism from AIDS awareness and public health efforts to youth programs like Growing Alterative Youth who were key in creating a space for minors in an otherwise adult-exclusive entertainment scene...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/MarshaCollection.md)
+
+![black and white photograph of a drag queen in a vintage silk sleeveless blouse](/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg)
+
+[Sandy Beach Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/SandyCollection.md)
+
+- Sandy Beach is an interior designer from Pittsburgh, Pennsylvania, who was also active as a model and drag performer through the 1980s and 1990s including the title of runner up for Miss Pittsburgh 1988. Known for her mid century fashion and makeup, she was frequently hired to perform as a model for the growing vintage market in Pittsburgh, inlcuding advertising for the Ellsworth Avenue boutiques "Eons" and "Hey Betty!"...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/SandyCollection.md)
