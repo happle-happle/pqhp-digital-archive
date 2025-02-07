@@ -18,7 +18,7 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 - [**Series 2: Talent Shows**](#series-2-talent-shows-items) - Video of recurring talent showcases hosted and organized by Vanna
 - [**Series 3: Pageants**](#series-3-pageants-items) - Video of local / regional competitive pageants
 - [**Series 4: Bar Shows**](#series-4-bar-shows-items) - Video of one-time shows, often produced by or featuring Vanna
-- **Series 5: Photographs** - Photographs of Vanna, her friends, and fellow performers. (pending upload)
+- [**Series 5: Photographs**](#series-5-photographs-items) - Photographs of Vanna, her friends, and fellow performers. (pending upload)
 
 ---
 ### Series 1: "Benefit Shows" Items
@@ -75,6 +75,9 @@ Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Dars
 
 [![a black queen lip synchs in the spotlight, a close up of her face, her hand held up to her cheek and ear, wearing a crystal tiara](/collections/Vanna-Collection/image-files/divamilanthumb.png)](https://vimeo.com/268417204)
 [Diva! The Many Faces of Milan, Pegasus, August 17 1994](https://vimeo.com/268417204)
+
+### Series 5: "Photographs" Items
+
 
 
 --- 
