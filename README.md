@@ -27,3 +27,11 @@
 [Cynthia Bruno-Gill Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Cynthia-Bruno-Gill-Collection/Cynthia-Collection.md)
 
 - This collection consists of materials donated by Cindy Bruno-Gill after participating in a series of oral history interviews with Harrison Apple about her life in the massage parlor business in Pittsburgh Pennsylvania. The materials (a shirt and matchbook from the Norreh Social Club in Polish Hill, and a matchbook from Shawn's in Uptown) reflect her patronage of specific lesbian bar spaces in Pittsburgh, as well as the social world she became connected to through her relationship and later marriage to Dante "Tex" Gill. ...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Cynthia-Bruno-Gill-Collection/Cynthia-Collection.md)
+
+[![protesters hold signs on grant in downtown pittsburgh](/collections/GCN-Collection/image-files/protestthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/GCN-Collection/GCN.md)
+
+[Gay Cable Network Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/GCN-Collection/GCN.md)
+
+- This collection contains digitized video contributed by Pam Lewis, producer of the Gay Cable Network program (late 1980s) for Pittsburgh Cable Television (PCTV21). The Gay Cable Network was a local program featuring original content covering gay and lesbian artists, political actions, and social events. The seven tapes in this collection include fashion shows, organization interviews, direct-actions, protests, press conferences, and performance art across Pittsburgh.
+The donated footage includes both edited and in-progress works, often with varying events recorded on one tape or across multiple tapes. The Gay Cable Network was made possible by a grant from Lambda Foundation of Pittsburgh, a nonprofit 501c3 Gay and Lesbian charity funded by a seed investment from the Pittsburgh Tavern Guild.
+
