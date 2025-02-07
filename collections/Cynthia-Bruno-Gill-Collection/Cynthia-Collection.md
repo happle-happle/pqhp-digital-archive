@@ -20,7 +20,7 @@ For complementary research on lesbian space and women's space in Pittsburgh, ple
 2 matchbooks from Shawn’s 1209 and the Norreh Social Club. Shawn’s 1209, located at 1209 Fifth Ave, was a lesbian owned and operated bar. The Norreh Social Club, located at 1226 Herron Avenue, was a gay and lesbian social club popular for after hours drinking, owned by Donnie Thinnes.
 
 #### T-Shirt from the Norreh Social Club
-[![interior of matchbooks](/collections/Cynthia-Bruno-Gill-Collection/image-files/norreh-shirtthumb.jpg)](/collections/Cynthia-Bruno-Gill-Collection/image-files/norreh-shirt.jpg)
+[![interior of matchbooks](/collections/Cynthia-Bruno-Gill-Collection/image-files/norreh-shirtthumb.jpg)](/collections/Cynthia-Bruno-Gill-Collection/image-files/norreh-shirt.jpeg)
 
 Black cotton T-shirt with the words “Norreh Pittsburgh, Pa.” screen printed in white Braggadocio font on the front. These shirts were made by the Norreh Social Club, later known as Donny’s Place and Leather Central, and are also seen in photographs and video footage of the Pittsburgh Taern Guild picnics in the 1980s. The Norreh social club is so named because of its location on Herron Ave (spelling Norreh when reversed) in Polish Hill in Pittsburgh. It is an inherited named from the former officers of the Norreh Club. The club became gay and lesbian centered when it was reopened by Donny Thinnes in the mid 1970s
 
