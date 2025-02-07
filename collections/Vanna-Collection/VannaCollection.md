@@ -84,7 +84,7 @@ Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Dars
 Scans of the 1996 Miss Pittsburgh Pageant with a list of former title holders and a hand written note by Vanna of the 1996 Winner, Jezebel Bebbington D'Opulence.
 
 - #### Vanna and Friends
-[![Vanna with foxy](/collections/Vanna-Collection/image-files/vannafoxythumb.png)](/collections/Vanna-Collection/image-files/vannafoxy.jpg) [![Vanna with friends](/collections/Vanna-Collection/image-files/vannafriendsthumb.png)](/collections/Vanna-Collection/image-files/vannafriends.jpg) [![glamor shot of Toffee English](/collections/Vanna-Collection/image-files/toffeethumb.png)](/collections/Vanna-Collection/image-files/toffee.jpg) [![Headshot of Eva Destruction](/collections/Vanna-Collection/image-files/evathumb.png)](/collections/Vanna-Collection/image-files/eva.JPEG)
+[![Vanna with foxy](/collections/Vanna-Collection/image-files/vannafoxythumb.png)](/collections/Vanna-Collection/image-files/vannafoxy.jpg) [![glamor shot of Toffee English](/collections/Vanna-Collection/image-files/toffeethumb.png)](/collections/Vanna-Collection/image-files/toffee.jpg) [![Headshot of Eva Destruction](/collections/Vanna-Collection/image-files/evathumb.png)](/collections/Vanna-Collection/image-files/eva.JPEG)
 
 Photos of Vanna and her friends including Foxy (neon bright outfit), Toffee English (Solo full body black and white), and Eva Destruction (Headshot)
 
