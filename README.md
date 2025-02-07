@@ -50,3 +50,11 @@ The donated footage includes both edited and in-progress works, often with varyi
 [The Dame Fefe Damiana D'Opulence Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Fefe-Collection/Fefe-Collection.md)
 
 - The Dame Fefe Damiana D'Opulence collection contains digital copies of photographs and VHS tapes, collected by Fefe, that document her career as a drag performer in West Virginia, Pennsylvania, and Washington D.C. As mother of the House of Opulence, Fefe's collection also offers a glimpse into the growth of the drag house during the 1990s through pageants, benefits, and weekly shows at a network of bars and clubs that regularly hosted drag performers across the mid-atlantic and mid-west regions of the US. The still photographs were scanned by Fefe D'Opulence and tape digitization was done by Harrison Apple of the PQHP...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Fefe-Collection/Fefe-Collection.md)
+
+---
+
+[![Cassette Jcard labeld "last mix"](/collections/BC-DS-LS-Collection/image-files/lastmixthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/BC-DS-LS-Collection/Brian-Donald-Larry-Mixtape-Collection.md)
+
+[The Brian Czarniecki, Donald Sheffey, and Larry Seaman Mixtape Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/BC-DS-LS-Collection/Brian-Donald-Larry-Mixtape-Collection.md)
+
+- These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively during their time at Zack’s Fourth Avenue in Downtown Pittsburgh. Though many DJs in Pittsburgh made tapes to sell to supplement the low rate offered by most clubs, the tapes in this collection were made specifically for in-house use, usually played early in the night before the crowds arrived. The tapes were collected and preserved by Brian Czarniecki, lightboard operator for Zack’s Fourth Avenue, and lent for digitization to become part of the Pittsburgh Queer History Project archives.
