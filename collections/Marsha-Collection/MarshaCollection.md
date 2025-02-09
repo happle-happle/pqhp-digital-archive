@@ -42,7 +42,7 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 [Miss Teen 2000 Pageant](https://vimeo.com/1037224639)
 
 [![Drag queen with large blonde wig stands in bisexual lighting with mic up to their mouth](/collections/Marsha-Collection/image-files/assortedthumb.png)](https://vimeo.com/1037221028)
-[Miss Teen 2000 Pageant](https://vimeo.com/1037221028)
+[Assorted Drag Show Tape](https://vimeo.com/1037221028)
 
 [![Drag queen in a spotlight and nuns habit on stage at Pegasus](/collections/Marsha-Collection/image-files/marshabday.png)](https://vimeo.com/1037219111)
 [Marsha Birthday 2001](https://vimeo.com/1037219111)
