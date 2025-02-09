@@ -59,6 +59,13 @@ The donated footage includes both edited and in-progress works, often with varyi
 
 - These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively during their time at Zack’s Fourth Avenue in Downtown Pittsburgh. Though many DJs in Pittsburgh made tapes to sell to supplement the low rate offered by most clubs, the tapes in this collection were made specifically for in-house use, usually played early in the night before the crowds arrived. The tapes were collected and preserved by Brian Czarniecki, lightboard operator for Zack’s Fourth Avenue, and lent for digitization to become part of the Pittsburgh Queer History Project archives.
 
+[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Scan115thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Collection.md)
+
+[The Harriet Stein Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Collection.md)
+
+- This collection contains personal items illustrating parts of her life in the punk, lesbian, and radical political scene in Pittsburgh from the 1970s to the present. Items include physical ephemera documenting the voter outreach conducted by Harriet as a member of the Gertrude Stein Political Club Pittsburgh, as well as her punk music poster/newsletter collection pulled from Pittsburgh telephone polls...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Collection.md)
+
+
 --- 
 
 [Top of Page](#Browse-the-PQHP-Collections-On-this-Page)
