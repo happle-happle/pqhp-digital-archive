@@ -1,4 +1,22 @@
-concat
+# Pittsburgh Queer History Project
+This is a template for digital collection sharing using barebones github markdown
+
+[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+
+
+![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Scan115thumb.png)
+## Collection Title: Harriet Stein Collection
+### Collection Description
+This collection contains digital and physical ephemera documenting the Pittsburgh punk music scene, as collected by Harriet Stein. Thecollection includes posters, event fl yers, postcards, and newsletters.
+
+### Series *(Items within the collection organized by topic or media)*
+- [**Series 1: Gertrude Stein Political Club**](#series-1-Gertrude-Stein-Political-Club) - Video of drag shows and other talent showcases raising funds for local organization and community members
+- [**Series 2: Punk Show Posters**](#series-2-Punk-Show-Posters) - Posters from Punk Shows primarily in the early 1980s, collected by Harriet. These posters were digtized by Harrison Apple following oral history interviews with Harret. These scans along with other PQHP video content have been used for the REPUNK reunion of Pittsburgh Punk bands throughout the 2010s. The original posters are now held at the Heinz History Center Dietre Archives.
+
+  
+---
+### Series 1: Gertrude Stein Political Club
+
 #### Gertrude Stein Political Club Annual Fundraiser with Picasso Portrait of Stein <br>[![Gertrude Stein Political Club Annual Fundraiser with Picasso Portrait of Stein](/collections/Harriet-Stein-Collection/image-files/HS-GS-01thumb.png)](/collections/Harriet-Stein-Collection/image-files/HS-GS-01.png) <br>  <br>
 #### 14th Ward Independent Democratic Club 2016 Official Voters Guide <br>[![14th Ward Independent Democratic Club 2016 Official Voters Guide](/collections/Harriet-Stein-Collection/image-files/HS-GS-02thumb.png)](/collections/Harriet-Stein-Collection/image-files/HS-GS-02.png) <br>  <br>
 #### GSPCGP Voting Slate for November 2014 Elections <br>[![GSPCGP Voting Slate for November 2014 Elections](/collections/Harriet-Stein-Collection/image-files/HS-GS-03thumb.png)](/collections/Harriet-Stein-Collection/image-files/HS-GS-03.png) <br>  <br>
@@ -17,7 +35,10 @@ concat
 #### GSPCGP Voting Slate for November 6 2007 Elections for the City of Pittsburgh and the Borough of Wilkinsburg <br>[![GSPCGP Voting Slate for November 6 2007 Elections for the City of Pittsburgh and the Borough of Wilkinsburg](/collections/Harriet-Stein-Collection/image-files/HS-GS-16_VERSION_2thumb.png)](/collections/Harriet-Stein-Collection/image-files/HS-GS-16_VERSION_2.png) <br>  <br>
 #### GSPCGP Voting Slate for November 6 2007 Elections for the City of Pittsburgh and the Borough of Wilkinsburg <br>[![GSPCGP Voting Slate for November 6 2007 Elections for the City of Pittsburgh and the Borough of Wilkinsburg](/collections/Harriet-Stein-Collection/image-files/HS-GS-16_VERSION_3thumb.png)](/collections/Harriet-Stein-Collection/image-files/HS-GS-16_VERSION_3.png) <br>  <br>
 #### GSPCGP Voting Slate for November 6 2007 Elections for the City of Pittsburgh and the Borough of Wilkinsburg <br>[![GSPCGP Voting Slate for November 6 2007 Elections for the City of Pittsburgh and the Borough of Wilkinsburg](/collections/Harriet-Stein-Collection/image-files/HS-GS-16thumb.png)](/collections/Harriet-Stein-Collection/image-files/HS-GS-16.png) <br>  <br>
-#### The Five and Friction (featuring Real Paisley) play at The Electric Banana, 3887 Bigelow Blvd Pittsburgh PA, the Five lists their PO Box 7558 Pittsburgh 15213 <br>[![The Five and Friction (featuring Real Paisley) play at The Electric Banana, 3887 Bigelow Blvd Pittsburgh PA, the Five lists their PO Box 7558 Pittsburgh 15213](/collections/Harriet-Stein-Collection/image-files/Scanthumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan.png) <br>  <br>
+
+### Series 2: Punk Show Posters
+
+#### Poster for The Five and Friction (featuring Real Paisley) play at The Electric Banana, 3887 Bigelow Blvd Pittsburgh PA, the Five lists their PO Box 7558 Pittsburgh 15213 <br>[![The Five and Friction (featuring Real Paisley) play at The Electric Banana, 3887 Bigelow Blvd Pittsburgh PA, the Five lists their PO Box 7558 Pittsburgh 15213](/collections/Harriet-Stein-Collection/image-files/Scanthumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan.png) <br>  <br>
 #### Poster Scraps from The Five <br>[![Poster Scraps from The Five](/collections/Harriet-Stein-Collection/image-files/Scan1thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan1.png) <br>  <br>
 #### Album Cover and Vinyl Graphic for The Five's Single "Act of Contrition" <br>[![Album Cover and Vinyl Graphic for The Five's Single "Act of Contrition"](/collections/Harriet-Stein-Collection/image-files/Scan2thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan2.png)
 [![](/collections/Harriet-Stein-Collection/image-files/Scan3thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan3.png) <br>  <br>
@@ -122,8 +143,14 @@ concat
 #### Harriet's Friends sit on the cut outside Carnegie Mellon University Hunt Library <br>[![Harriet's Friends sit on the cut outside Carnegie Mellon University Hunt Library](/collections/Harriet-Stein-Collection/image-files/Scan114thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan114.png) <br>  <br>
 #### Harriet and Friends sit on a rock in the river at Ohiopyle <br>[![Harriet and Friends sit on a rock in the river at Ohiopyle](/collections/Harriet-Stein-Collection/image-files/Scan115thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan115.png) <br>  <br>
 #### Lyrics sheet, with photographs, for Real Enemy. Band members included Mike LaVella, Russ Smith, Steve Heineman, and Vince Curtis <br>[![Lyrics sheet, with photographs, for Real Enemy. Band members included Mike LaVella, Russ Smith, Steve Heineman, and Vince Curtis](/collections/Harriet-Stein-Collection/image-files/Scan116thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan116.png)
-[![](/collections/Harriet-Stein-Collection/image-files/Scan117thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan117.png
-[![](/collections/Harriet-Stein-Collection/image-files/Scan118thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan118.png
+[![](/collections/Harriet-Stein-Collection/image-files/Scan117thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan117.png)
+[![](/collections/Harriet-Stein-Collection/image-files/Scan118thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan118.png)
 [![](/collections/Harriet-Stein-Collection/image-files/Scan119thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan119.png) <br>  <br>
 #### Poster for Theatre Express with Leon Katz <br>[![Poster for Theatre Express with Leon Katz](/collections/Harriet-Stein-Collection/image-files/Scan120thumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan120.png) <br>  <br>
 #### 45 sleeve for Blue Collar "she sings" <br>[![45 sleeve for Blue Collar "she sings"](/collections/Harriet-Stein-Collection/image-files/Scan122bthumb.png)](/collections/Harriet-Stein-Collection/image-files/Scan122b.png)![image](https://github.com/user-attachments/assets/f0e2eb6e-7832-4ef0-b84a-a95219ecc89e)
+
+---
+
+[Top of Page](#pittsburgh-queer-history-project)
+
+[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
