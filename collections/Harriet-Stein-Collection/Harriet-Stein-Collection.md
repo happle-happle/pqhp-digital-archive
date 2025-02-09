@@ -4,7 +4,7 @@ This is a template for digital collection sharing using barebones github markdow
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
 
-![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Scan115thumb.png)
+[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Scan115thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Collection.md)
 ## Collection Title: Harriet Stein Collection
 ### Collection Description
 This collection contains digital and physical ephemera documenting the Pittsburgh punk music scene, as collected by Harriet Stein. Thecollection includes posters, event fl yers, postcards, and newsletters.
