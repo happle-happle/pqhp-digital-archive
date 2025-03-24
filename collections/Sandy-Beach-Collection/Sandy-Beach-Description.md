@@ -1,11 +1,11 @@
 # Pittsburgh Queer History Project
-This is a template for digital collection sharing using barebones github markdown
 
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-
-[![black and white photograph of a drag queen in a vintage silk sleeveless blouse](/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/SandyCollection.md)
 ## Collection Title: Sandy Beach Collection
+
+[![black and white photograph of a drag queen in a vintage silk sleeveless blouse](/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/Sandy-Beach-Description.md)
+
 ### Collection Description
 Sandy Beach is an interior designer from Pittsburgh, Pennsylvania, who was also active as a model and drag performer through the 1980s and 1990s including the title of runner up for Miss Pittsburgh 1988. Known for her mid century fashion and makeup, she was frequently hired to perform as a model for the growing vintage market in Pittsburgh, inlcuding advertising for the Ellsworth Avenue boutiques "Eons" and "Hey Betty!"
 

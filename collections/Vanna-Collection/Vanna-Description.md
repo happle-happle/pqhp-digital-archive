@@ -1,11 +1,10 @@
 # Pittsburgh Queer History Project
-This is a template for digital collection sharing using barebones github markdown
-
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-
-[![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/collections/Vanna-Collection/image-files/vannasquare.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/VannaCollection.md)
 ## Collection Title: Vanna (aka Michael Obusek) Collection
+
+[![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/collections/Vanna-Collection/image-files/vannasquare.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/Vanna-Description.md)
+
 ### Collection Description
 Michael “Vanna” Obusek (b. July 10, 1966) is former staff of the Travelers Social Club and the Pegasus nightclub where he worked both on and off stage as a bartender, house manager, show director and drag performer between 1986 and 1999. Michael had moved to Pittsburgh from his hometown of Elizabeth, PA, at the age of 18 in search of a gay scene in city. After surviving a liquor control raid at the Traveler’s Social Club in 1986 and testifying to protect the club during a subsequent trial, Michael was offered a job as a bartender, beginning the next decade of his life in the bar business and club culture. When a workplace accident forced him to quit his position at Travelers, former co-workers helped him transition to Pegasus, where he stayed until leaving the bar scene permanently to pursue degrees in interior design and education in 1999.
 
