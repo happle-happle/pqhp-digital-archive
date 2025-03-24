@@ -2,7 +2,7 @@
 
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-## Collection Title: Cynthia Bruno-Gill Collection
+## Cynthia Bruno-Gill Collection
 
 [![image of a norreh shirt](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooksthumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Cynthia-Bruno-Gill-Collection/Cynthia-Bruno-Gill-Description.md)
 

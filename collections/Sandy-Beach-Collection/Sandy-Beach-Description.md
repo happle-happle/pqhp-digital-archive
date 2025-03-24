@@ -2,7 +2,7 @@
 
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-## Collection Title: Sandy Beach Collection
+## Sandy Beach Collection
 
 [![black and white photograph of a drag queen in a vintage silk sleeveless blouse](/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/Sandy-Beach-Description.md)
 
@@ -18,19 +18,19 @@ She shared her materials with the Pittsburgh Queer History Project after an inte
 ### Series 1: "Print Material" Items
 - #### Glamor Shots, Undated, Photographs by John Colombo
 <p float="left">
-  <a href="/collections/Sandy-Beach-Collection/image-files/glamor1.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg" width="100" /></a>
-  <a href="/collections/Sandy-Beach-Collection/image-files/glamor2.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor2thumb.jpg" width="100" /></a>
-  <a href="/collections/Sandy-Beach-Collection/image-files/glamor3.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor3thumb.jpg" width="100" /></a>
-  <a href="/collections/Sandy-Beach-Collection/image-files/glamor4.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor4thumb.jpg" width="100" /></a>
-  <a href="/collections/Sandy-Beach-Collection/image-files/glamor5.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/glamor5thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor1.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor1thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor2.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor2thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor3.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor3thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor4.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor4thumb.jpg" width="100" /></a>
+  <a href="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor5.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/Series-1/glamor5thumb.jpg" width="100" /></a>
 </p>
 
 Five medium format film glamour shots of Sandy Beach by Pittbsurgh Photographer/Performer John Colombo. These photo positives were produced digitally from the scanned negatives by Harrison Apple for the Pittsburgh Queer History Project. Originals remain with Sandy.
 
 - #### Design By Brett Mail Order Catalog, Undated
 <p float="left">
-  <a href="/collections/Sandy-Beach-Collection/image-files/bretdesign.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/bretdesign1thumb.jpg" width="100" />
-  <a href="/collections/Sandy-Beach-Collection/image-files/bretdesign2.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/bretdesign2thumb.jpg" width="100" />
+  <a href="/collections/Sandy-Beach-Collection/image-files/Series-1/bretdesign.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/Series-1/bretdesign1thumb.jpg" width="100" />
+  <a href="/collections/Sandy-Beach-Collection/image-files/Series-1/bretdesign2.jpg"/><img src="/collections/Sandy-Beach-Collection/image-files/Series-1/bretdesign2thumb.jpg" width="100" />
 </p>
 Mail order catalog for Pittsburgh based screen-print / design company "Design by Brett T shirts" located at 2460 Saunders Station Pittsburgh PA 15146.
 
@@ -42,9 +42,9 @@ Catalog description includes:
 
 ### Series 2: "Video" Items
 
-[![a blonde drag queen sits at a desk in a black dress with the text folio papers and its murray avenue address](/collections/Sandy-Beach-Collection/image-files/papersthumb.png)](https://vimeo.com/355874847?share=copy) [Folio Papers Commercial, March 20 1999](https://vimeo.com/355874847?share=copy)
+[![a blonde drag queen sits at a desk in a black dress with the text folio papers and its murray avenue address](/collections/Sandy-Beach-Collection/image-files/Series-2/papersthumb.png)](https://vimeo.com/355874847?share=copy) [Folio Papers Commercial, March 20 1999](https://vimeo.com/355874847?share=copy)
 
-[![a drag queen leans her head on a marble and brass newel post](/collections/Sandy-Beach-Collection/image-files/victimsthumb.png)](https://vimeo.com/455594708?share=copy) [Victims of Fantasy Lipsynch, Gay Cable Network](https://vimeo.com/455594708?share=copy)
+[![a drag queen leans her head on a marble and brass newel post](/collections/Sandy-Beach-Collection/image-files/Series-2/victimsthumb.png)](https://vimeo.com/455594708?share=copy) [Victims of Fantasy Lipsynch, Gay Cable Network](https://vimeo.com/455594708?share=copy)
 
 --- 
 

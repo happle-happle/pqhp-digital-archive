@@ -2,7 +2,7 @@
 
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-## Collection Title: Brian Czarniecki, Donald Sheffey, and Larry Seaman Mixtape Collection
+## Brian Czarniecki, Donald Sheffey, and Larry Seaman Mixtape Collection 
 
 [![Cassette Jcard labeld "last mix"](/collections/BC-DS-LS-Collection/image-files/lastmixthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/BC-DS-LS-Collection/BC-DS-LS-Description.md)
 

@@ -2,7 +2,7 @@
 
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-## Collection Title: Gay Cable Network Collection
+## Gay Cable Network Collection
 
 [![cryout! right to privacy conference speaker](/collections/GCN-Collection/image-files/cryoutthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/GCN-Collection/GCN-Description.md)
 

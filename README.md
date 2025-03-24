@@ -24,7 +24,7 @@ Michael “Vanna” Obusek (b. July 10, 1966) is former staff of the Travelers S
 
 ### [Marsha Monster Mellow Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
 
-[![ drag queen in black up-do silver top and arms akimbo](collections/Marsha-Collection/image-files/marsha01thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
+[![ drag queen in black up-do silver top and arms akimbo](collections/Marsha-Collection/image-files/Series-1/marsha01thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
 
 
 Marsha Mellow Collection contains tapes and documents from the Pittsburgh nightlife scene with emphasis on drag shows at Pegasus Lounge located at 818 Liberty Avenue in Downtown Pittsburgh. Marsha (aka Mark Wilkes) had come of age in the Pittsburgh gay nightclub, becoming a fixture in bar productions as well as regional pageants. Her own tape collection covers stage productions, benefit shows, and bar shows that help illustrate the DIY queer and gay drag cabaret scene in the city, entangled with local on-the-ground activism from AIDS awareness and public health efforts to youth programs like Growing Alterative Youth who were key in creating a space for minors in an otherwise adult-exclusive entertainment scene...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
@@ -33,7 +33,7 @@ Marsha Mellow Collection contains tapes and documents from the Pittsburgh nightl
 
 ### [Sandy Beach Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/Sandy-Beach-Description.md)
 
-[![black and white photograph of a drag queen in a vintage silk sleeveless blouse](/collections/Sandy-Beach-Collection/image-files/glamor1thumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/Sandy-Beach-Description.md)
+[![black and white photograph of a drag queen in a vintage silk sleeveless blouse](/collections/Sandy-Beach-Collection/image-files/Series-1/glamor1thumb.jpg)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/Sandy-Beach-Description.md)
 
 
 Sandy Beach is an interior designer from Pittsburgh, Pennsylvania, who was also active as a model and drag performer through the 1980s and 1990s including the title of runner up for Miss Pittsburgh 1988. Known for her mid century fashion and makeup, she was frequently hired to perform as a model for the growing vintage market in Pittsburgh, inlcuding advertising for the Ellsworth Avenue boutiques "Eons" and "Hey Betty!"...[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Sandy-Beach-Collection/Sandy-Beach-Description.md)
@@ -75,7 +75,7 @@ These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively 
 
 ### [The Harriet Stein Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 
-[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Scan115thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
+[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Series-2/Scan115thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 
 This collection contains personal items illustrating parts of her life in the punk, lesbian, and radical political scene in Pittsburgh from the 1970s to the present. Items include physical ephemera documenting the voter outreach conducted by Harriet as a member of the Gertrude Stein Political Club of Greater Pittsburgh, as well as her punk poster/newsletter collection pulled from Pittsburgh telephone polls..[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 

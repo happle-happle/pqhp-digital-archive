@@ -1,7 +1,7 @@
 # Pittsburgh Queer History Project
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-## Collection Title: Marsha Monster Mellow Collection
+## Marsha Monster Mellow Collection
 
 [![square framed image of a drag queen in a black up-do wig casting her eyes downward, arms akimbo](/collections/Marsha-Collection/image-files/marsha01thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
 
@@ -19,46 +19,46 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 
 ---
 ### Series 1: "Compilations" Items
-[![drag queen with black up-do, silver top and arms akimbo](/collections/Marsha-Collection/image-files/marsha01thumb.png)](https://vimeo.com/1026877317)
+[![drag queen with black up-do, silver top and arms akimbo](/collections/Marsha-Collection/image-files/Series-1/marsha01thumb.png)](https://vimeo.com/1026877317)
 [Compilation: Miss Teen Pgh 1995, La Cage aux Folles at Pegasus, and Miss Pegasus 1993](https://vimeo.com/1037276815)
 
-[![Drag queen in a white dress and a platinum blonde wig stares into the camera with her arms outstretched](/collections/Marsha-Collection/image-files/candace.png)](https://vimeo.com/1037276815)
+[![Drag queen in a white dress and a platinum blonde wig stares into the camera with her arms outstretched](/collections/Marsha-Collection/image-files/Series-1/candace.png)](https://vimeo.com/1037276815)
 [Miss Continental 2001 Featuring Candace Cayne](https://vimeo.com/1037276815)
 
-[![OBSERVED written in white block letters over a black background](/collections/Marsha-Collection/image-files/observed.png)](https://vimeo.com/1037276815)
+[![OBSERVED written in white block letters over a black background](/collections/Marsha-Collection/image-files/Series-1/observed.png)](https://vimeo.com/1037276815)
 [Observed by Ray Kozar starring Marsha Mellow](https://vimeo.com/1037276643)
 
-[![Drag queen in a white sleevelsss dress and tiara at the microphone](/collections/Marsha-Collection/image-files/missthreerivers96.png)](https://vimeo.com/1037271436)
+[![Drag queen in a white sleevelsss dress and tiara at the microphone](/collections/Marsha-Collection/image-files/Series-1/missthreerivers96.png)](https://vimeo.com/1037271436)
 [Miss Three Rivers 1996 Pageant](https://vimeo.com/1037271436)
 
-[![Drag queen in an american flag outfit including Oversized Top Hat](/collections/Marsha-Collection/image-files/misspeg2000.png)](https://vimeo.com/1037249549)
+[![Drag queen in an american flag outfit including Oversized Top Hat](/collections/Marsha-Collection/image-files/Series-1/misspeg2000.png)](https://vimeo.com/1037249549)
 [Miss Pegasus 2000 Pageant](https://vimeo.com/1037249549)
 
-[![Drag Queen in a cow print jacket and cowboy hat](/collections/Marsha-Collection/image-files/missteen2000.png)](https://vimeo.com/1037242051)
+[![Drag Queen in a cow print jacket and cowboy hat](/collections/Marsha-Collection/image-files/Series-1/missteen2000.png)](https://vimeo.com/1037242051)
 [Miss Teen 2000 Pageant](https://vimeo.com/1037242051)
 
-[![Drag Queen in a vertical black and white stripe dress and black beehive hairdo stands on stage](/collections/Marsha-Collection/image-files/iconscafe.png)](https://vimeo.com/1037224639)
+[![Drag Queen in a vertical black and white stripe dress and black beehive hairdo stands on stage](/collections/Marsha-Collection/image-files/Series-1/iconscafe.png)](https://vimeo.com/1037224639)
 [Miss Teen 2000 Pageant](https://vimeo.com/1037224639)
 
-[![Drag queen with large blonde wig stands in bisexual lighting with mic up to their mouth](/collections/Marsha-Collection/image-files/assortedthumb.png)](https://vimeo.com/1037221028)
+[![Drag queen with large blonde wig stands in bisexual lighting with mic up to their mouth](/collections/Marsha-Collection/image-files/Series-1/assortedthumb.png)](https://vimeo.com/1037221028)
 [Assorted Drag Show Tape](https://vimeo.com/1037221028)
 
-[![Drag queen in a spotlight and nuns habit on stage at Pegasus](/collections/Marsha-Collection/image-files/marshabday.png)](https://vimeo.com/1037219111)
+[![Drag queen in a spotlight and nuns habit on stage at Pegasus](/collections/Marsha-Collection/image-files/Series-1/marshabday.png)](https://vimeo.com/1037219111)
 [Marsha Birthday 2001](https://vimeo.com/1037219111)
 
-[![Drag Queen in a gold sequin dress and crown](/collections/Marsha-Collection/image-files/mspgh96.png)](https://vimeo.com/1037212316)
+[![Drag Queen in a gold sequin dress and crown](/collections/Marsha-Collection/image-files/Series-1/mspgh96.png)](https://vimeo.com/1037212316)
 [Ms Pittsburgh 1996 Tape 1](https://vimeo.com/1037212316)
 
-[![Drag Queen in a fur coat and ratted hair](/collections/Marsha-Collection/image-files/thxgiving.png)](https://vimeo.com/1037201433)
+[![Drag Queen in a fur coat and ratted hair](/collections/Marsha-Collection/image-files/Series-1/thxgiving.png)](https://vimeo.com/1037201433)
 [Marsha Thanksgiving Special on Brian T's Dream Factory - PCTV21](https://vimeo.com/1037201433)
 
-[![Drag queen in a black plunging neckline dress alone in spotlight](/collections/Marsha-Collection/image-files/maxi.png)](https://vimeo.com/1037197732)
+[![Drag queen in a black plunging neckline dress alone in spotlight](/collections/Marsha-Collection/image-files/Series-1/maxi.png)](https://vimeo.com/1037197732)
 [Maxi Tampon March Madness](https://vimeo.com/1037197732)
 
-[![Liberty Avenue Saloon - Mario Benefit Tape 1](/collections/Marsha-Collection/image-files/mario1.png)](https://vimeo.com/1037191521)
+[![Liberty Avenue Saloon - Mario Benefit Tape 1](/collections/Marsha-Collection/image-files/Series-1/mario1.png)](https://vimeo.com/1037191521)
 [Liberty Avenue Saloon  - Mario Benefit Tape 1](https://vimeo.com/1037191521)
 
-[![Liberty Avenue Saloon - Mario Benefit Tape 2](/collections/Marsha-Collection/image-files/mario2.png)](https://vimeo.com/1037194934)
+[![Liberty Avenue Saloon - Mario Benefit Tape 2](/collections/Marsha-Collection/image-files/Series-1/mario2.png)](https://vimeo.com/1037194934)
 [Liberty Avenue Saloon  - Mario Benefit Tape 2](https://vimeo.com/1037194934)
 
 

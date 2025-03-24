@@ -2,7 +2,7 @@
 
 [Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
 
-## Collection Title: Fefe Damiana D'Opulence Collection
+## Fefe Damiana D'Opulence Collection
 
 [![Fefe in a brown curly wig](/collections/Fefe-Collection/image-files/farewellthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Fefe-Collection/Fefe-Description.md)
 
