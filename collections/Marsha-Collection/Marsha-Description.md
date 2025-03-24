@@ -3,7 +3,7 @@
 
 ## Marsha Monster Mellow Collection
 
-[![square framed image of a drag queen in a black up-do wig casting her eyes downward, arms akimbo](/collections/Marsha-Collection/image-files/marsha01thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
+[![square framed image of a drag queen in a black up-do wig casting her eyes downward, arms akimbo](/collections/Marsha-Collection/image-files/Series-1/marsha01thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
 
 ### Collection Description
 Marsha Monster Mellow Collection contains tapes and documents from the Pittsburgh nightlife scene with emphasis on drag shows at Pegasus Lounge located at 818 Liberty Avenue in Downtown Pittsburgh. 
