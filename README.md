@@ -13,16 +13,16 @@ Each collection is housed within the collections folder above and is organized b
 ---
 
 
-### [Vanna (aka Michael Obusek) Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/Vanna-Description.md)
+### [Vanna (aka Michael Obusek) Collection](../pqhp-digital-archive/blob/main/collections/Vanna-Collection/Vanna-Description.md)
 
-[![white drag queen in blonde up-do](collections/Vanna-Collection/image-files/vannasquare.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/Vanna-Description.md)
+[![white drag queen in blonde up-do](collections/Vanna-Collection/image-files/vannasquare.png)](../pqhp-digital-archive/blob/main/collections/Vanna-Collection/Vanna-Description.md)
 
-Michael “Vanna” Obusek (b. July 10, 1966) is former staff of the Travelers Social Club and the Pegasus nightclub where he worked both on and off stage as a bartender, house manager, show director and drag performer between 1986 and 1999. Michael had moved to Pittsburgh from his hometown of Elizabeth, PA, at the age of 18 in search of a gay scene in city. After surviving a liquor control raid at the Traveler’s Social Club in 1986 and testifying to protect the club during a subsequent trial, Michael was offered a job as a bartender, beginning the next decade of his life in the bar business and club culture. When a workplace accident forced him to quit his position at Travelers, former co-workers helped him transition to Pegasus, where he stayed until leaving the bar scene permanently to pursue degrees in interior design and education in 1999... [Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/Vanna-Description.md)
+Michael “Vanna” Obusek (b. July 10, 1966) is former staff of the Travelers Social Club and the Pegasus nightclub where he worked both on and off stage as a bartender, house manager, show director and drag performer between 1986 and 1999. Michael had moved to Pittsburgh from his hometown of Elizabeth, PA, at the age of 18 in search of a gay scene in city. After surviving a liquor control raid at the Traveler’s Social Club in 1986 and testifying to protect the club during a subsequent trial, Michael was offered a job as a bartender, beginning the next decade of his life in the bar business and club culture. When a workplace accident forced him to quit his position at Travelers, former co-workers helped him transition to Pegasus, where he stayed until leaving the bar scene permanently to pursue degrees in interior design and education in 1999... [Read More](../pqhp-digital-archive/blob/main/collections/Vanna-Collection/Vanna-Description.md)
 
 
 ---
 
-### [Marsha Monster Mellow Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
+### [Marsha Monster Mellow Collection](../pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
 
 [![ drag queen in black up-do silver top and arms akimbo](collections/Marsha-Collection/image-files/Series-1/marsha01thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Marsha-Collection/Marsha-Description.md)
 
@@ -75,7 +75,7 @@ These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively 
 
 ### [The Harriet Stein Collection](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 
-[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Series-2/Scan115thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
+[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Series-1/Scan115thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 
 This collection contains personal items illustrating parts of her life in the punk, lesbian, and radical political scene in Pittsburgh from the 1970s to the present. Items include physical ephemera documenting the voter outreach conducted by Harriet as a member of the Gertrude Stein Political Club of Greater Pittsburgh, as well as her punk poster/newsletter collection pulled from Pittsburgh telephone polls..[Read More](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 

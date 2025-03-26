@@ -1,6 +1,6 @@
 # Pittsburgh Queer History Project
 
-[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main](../pqhp-digital-archive/tree/main)
 
 ## Brian Czarniecki, Donald Sheffey, and Larry Seaman Mixtape Collection 
 
