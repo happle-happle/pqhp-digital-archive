@@ -1,10 +1,10 @@
 # Pittsburgh Queer History Project
 
-[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main](../../README.md)
 
 ## Harriet Stein Collection
 
-[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Series-2/Scan115thumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
+[![harriet and friends"](/collections/Harriet-Stein-Collection/image-files/Series-2/Scan115thumb.png)](./Harriet-Stein-Description.md)
 
 ### Collection Description
 This collection contains personal items illustrating parts of her life in the punk, lesbian, and radical political scene in Pittsburgh from the 1970s to the present. Items include physical ephemera documenting the voter outreach conducted by Harriet as a member of the Gertrude Stein Political Club of Greater Pittsburgh, as well as her punk poster/newsletter collection pulled from Pittsburgh telephone polls.
@@ -155,4 +155,4 @@ This collection contains personal items illustrating parts of her life in the pu
 
 [Top of Page](#pittsburgh-queer-history-project)
 
-[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main Directory](../../README.md)

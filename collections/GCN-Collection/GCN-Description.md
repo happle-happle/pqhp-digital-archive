@@ -1,10 +1,10 @@
 # Pittsburgh Queer History Project
 
-[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main](../../README.md)
 
 ## Gay Cable Network Collection
 
-[![cryout! right to privacy conference speaker](/collections/GCN-Collection/image-files/cryoutthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/GCN-Collection/GCN-Description.md)
+[![cryout! right to privacy conference speaker](/collections/GCN-Collection/image-files/cryoutthumb.png)](./GCN-Description.md)
 
 ### Collection Description
 This collection contains digitized video contributed by Pam Lewis, producer of the Gay Cable Network program (late 1980s) for Pittsburgh Cable Television (PCTV21). The Gay Cable Network was a local program featuring original content covering gay and lesbian artists, political actions, and social events. The seven tapes in this collection include fashion shows, organization interviews, direct-actions, protests, press conferences, and performance art across Pittsburgh.
@@ -80,4 +80,4 @@ The protests includes representatives from local social and political groups inc
 
 [Top of Page](#pittsburgh-queer-history-project)
 
-[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main Directory](../../README.md)

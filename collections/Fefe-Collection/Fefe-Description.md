@@ -1,10 +1,10 @@
 # Pittsburgh Queer History Project
 
-[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main](../../README.md)
 
 ## Fefe Damiana D'Opulence Collection
 
-[![Fefe in a brown curly wig](/collections/Fefe-Collection/image-files/farewellthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Fefe-Collection/Fefe-Description.md)
+[![Fefe in a brown curly wig](/collections/Fefe-Collection/image-files/farewellthumb.png)](./Fefe-Description.md)
 
 ### Collection Description
 The Dame Fefe Damiana D'Opulence collection contains digital copies of VHS tapes, collected by Fefe, that document her career as a drag performer in West Virginia, Pennsylvania, and Washington D.C. As mother of the House of Opulence, Fefe's collection also offers a glimpse into the growth of the drag house during the 1990s through pageants, benefits, and weekly shows at a network of bars and clubs that regularly hosted drag performers across the mid-atlantic and mid-west regions of the US. The still photographs were scanned by Fefe D'Opulence and tape digitization was done by Harrison Apple of the PQHP.
@@ -80,4 +80,4 @@ This tape contains footage of the 1996 Miss House of Tilden pageant, held at 941
 
 [Top of Page](#pittsburgh-queer-history-project)
 
-[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main Directory](../../README.md)
