@@ -10,6 +10,8 @@ Welcome to the PQHP digital archives page! Here, you will find selected archives
 
 Each collection is housed within the collections folder above and is organized by contributors. Below are a sample of some of the featured collections with their descriptions. Feel free to browse through all collections within the collections folder! 
 
+*If you would like to contribute to this repo or donate archives to PQHP, please read "Contribution_Workflow" in this repo or reach out to Harrison Apple at happle@andrew.cmu.edu*
+
 ---
 
 

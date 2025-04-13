@@ -62,9 +62,6 @@ This is a beginner-friendly guide for contributing to the **PQHP Digital Archive
 
 ---
 
-
----
-
 ## Step 5: Submit a Pull Request (PR)
 
 1. Visit your fork on GitHub (e.g. `https://github.com/your-username/pqhp-digital-archive`).
