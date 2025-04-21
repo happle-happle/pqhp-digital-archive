@@ -25,7 +25,7 @@ Marsha's collection was lent for digitization in the summer of 2024. Many of the
 [![Drag queen in a white dress and a platinum blonde wig stares into the camera with her arms outstretched](/collections/Marsha-Collection/image-files/Series-1/candace.png)](https://vimeo.com/1037276815)
 [Miss Continental 2001 Featuring Candace Cayne](https://vimeo.com/1037276815)
 
-[![OBSERVED written in white block letters over a black background](/collections/Marsha-Collection/image-files/Series-1/observed.png)](https://vimeo.com/1037276643)
+[![OBSERVED written in white block letters over a black background](/collections/Marsha-Collection/image-files/observed.png)](https://vimeo.com/1037276815)
 [Observed by Ray Kozar starring Marsha Mellow](https://vimeo.com/1037276643)
 
 [![Drag queen in a white sleevelsss dress and tiara at the microphone](/collections/Marsha-Collection/image-files/Series-1/missthreerivers96.png)](https://vimeo.com/1037271436)
