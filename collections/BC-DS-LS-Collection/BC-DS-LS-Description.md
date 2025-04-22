@@ -1,11 +1,11 @@
 # Pittsburgh Queer History Project
-This is a template for digital collection sharing using barebones github markdown
 
-[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main](../../README.md)
 
+## Brian Czarniecki, Donald Sheffey, and Larry Seaman Mixtape Collection 
 
-[![Cassette Jcard labeld "last mix"](/collections/BC-DS-LS-Collection/image-files/lastmixthumb.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/BC-DS-LS-Collection/Brian-Donald-Larry-Mixtape-Collection.md)
-## Collection Title: Brian Czarniecki, Donald Sheffey, and Larry Seaman Mixtape Collection
+[![Cassette Jcard labeld "last mix"](/collections/BC-DS-LS-Collection/image-files/lastmixthumb.png)](./BC-DS-LS-Description.md)
+
 ### Collection Description
 These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively during their time at Zack’s Fourth Avenue in Downtown Pittsburgh. Though many DJs in Pittsburgh made tapes to sell to supplement the low rate offered by most clubs, the tapes in this collection were made specifically for in-house use, usually played early in the night before the crowds arrived. The tapes were collected and preserved by Brian Czarniecki, lightboard operator for Zack’s Fourth Avenue, and lent for digitization to become part of the Pittsburgh Queer History Project archives.
 
@@ -78,4 +78,4 @@ Donald Sheffey, now running his own real estate businesses in Manhattan and the 
 
 [Top of Page](#pittsburgh-queer-history-project)
 
-[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main Directory](../../README.md)

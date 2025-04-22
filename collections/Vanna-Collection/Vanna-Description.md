@@ -1,11 +1,10 @@
 # Pittsburgh Queer History Project
-This is a template for digital collection sharing using barebones github markdown
+[Return to Main](../../README.md)
 
-[Return to Main](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+## Vanna (aka Michael Obusek) Collection
 
+[![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/collections/Vanna-Collection/image-files/vannasquare.png)](./Vanna-Description.md)
 
-[![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/collections/Vanna-Collection/image-files/vannasquare.png)](https://github.com/happle-happle/pqhp-digital-archive/blob/main/collections/Vanna-Collection/VannaCollection.md)
-## Collection Title: Vanna (aka Michael Obusek) Collection
 ### Collection Description
 Michael “Vanna” Obusek (b. July 10, 1966) is former staff of the Travelers Social Club and the Pegasus nightclub where he worked both on and off stage as a bartender, house manager, show director and drag performer between 1986 and 1999. Michael had moved to Pittsburgh from his hometown of Elizabeth, PA, at the age of 18 in search of a gay scene in city. After surviving a liquor control raid at the Traveler’s Social Club in 1986 and testifying to protect the club during a subsequent trial, Michael was offered a job as a bartender, beginning the next decade of his life in the bar business and club culture. When a workplace accident forced him to quit his position at Travelers, former co-workers helped him transition to Pegasus, where he stayed until leaving the bar scene permanently to pursue degrees in interior design and education in 1999.
 
@@ -22,33 +21,33 @@ Vanna donated these tapes to the Pittsburgh Queer History Project following an o
 
 ---
 ### Series 1: "Benefit Shows" Items
-[![people stand on stage in front of a lit sign reading "the day after that"](/collections/Vanna-Collection/image-files/dayafterthatthumb.png)](https://vimeo.com/267347075)
+[![people stand on stage in front of a lit sign reading "the day after that"](/collections/Vanna-Collection/image-files/Series-1/dayafterthatthumb.png)](https://vimeo.com/267347075)
 ["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
 
-[!["white drag queen in a black feather headdress stands on stage holding a microphone"](/collections/Vanna-Collection//image-files/vannabenefitmspghthumb.png)](https://vimeo.com/268451159?share=copy)
+[!["white drag queen in a black feather headdress stands on stage holding a microphone"](/collections/Vanna-Collection//image-files/Series-1/vannabenefitmspghthumb.png)](https://vimeo.com/268451159?share=copy)
 [Vanna's Benefit to Compete in Miss Pittsburgh, Zak's Fourth Avenue, April 10 1994](https://vimeo.com/268451159?share=copy)
 
-[![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](/collections/Vanna-Collection//image-files/softballbenefitthumb.png)](https://vimeo.com/254171066)
+[![a black drag queen in a blonde tina turner wig and robe on stage facing away from the camera](/collections/Vanna-Collection//image-files/Series-1/softballbenefitthumb.png)](https://vimeo.com/254171066)
 [Steel City Softball League Benefit, Pegasus, 1987](https://vimeo.com/254171066)
 
-[![a pixelated image of a performer in a silver jacket and black hair the words ms pittsburgh are printed into the frame at the bottom](/collections/Vanna-Collection//image-files/valentinethumb.png)](https://vimeo.com/240376694)
+[![a pixelated image of a performer in a silver jacket and black hair the words ms pittsburgh are printed into the frame at the bottom](/collections/Vanna-Collection//image-files/Series-1/valentinethumb.png)](https://vimeo.com/240376694)
 [Valentines Day PATF Benefit Show, Real Luck Cafe "Lucky's", February 12 1995](https://vimeo.com/240376694)
 
-[![a white man in black clothes stands on stage with a microphone](/collections/Vanna-Collection//image-files/shepherdthumb.png)](https://vimeo.com/240264803)
+[![a white man in black clothes stands on stage with a microphone](/collections/Vanna-Collection//image-files/Series-1/shepherdthumb.png)](https://vimeo.com/240264803)
 [Shepherd Wellness Community Benefit Show, Real Luck Cafe "Lucky's", September 1994](https://vimeo.com/240264803)
 
 ---
 ### Series 2: "Talent Shows" Items
-[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/xmasinjulythumb.png)](https://vimeo.com/267347075)
+[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/Series-2/xmasinjulythumb.png)](https://vimeo.com/267347075)
 [Vanna's Christmas in July Talent Show, Pegasus](https://vimeo.com/267341557)
 
-[![a silhouetted figure begins walking across a stage with gold tinsel in the background](/collections/Vanna-Collection/image-files/firstshow92thumb.png)](https://vimeo.com/267355165?share=copy)
+[![a silhouetted figure begins walking across a stage with gold tinsel in the background](/collections/Vanna-Collection/image-files/Series-2/firstshow92thumb.png)](https://vimeo.com/267355165?share=copy)
 [Vanna's First Talent Show, Pegasus, June 17 1992](https://vimeo.com/267355165?share=copy)
 
-[![A figure in black pants and a white button up shirt stands on stage under paper snowflakes](/collections/Vanna-Collection/image-files/whitexmasthumb.png)](https://vimeo.com/268466955?share=copy)
+[![A figure in black pants and a white button up shirt stands on stage under paper snowflakes](/collections/Vanna-Collection/image-files/Series-2/whitexmasthumb.png)](https://vimeo.com/268466955?share=copy)
 [Vanna White Christmas Talent Show, Special Guest Kierra, Pegasus, December 15 1993](https://vimeo.com/268466955?share=copy)
 
-[![a black drag queen in a silver sequen dress accepts a dollar from a white audience member in black pants and suspenders](/collections/Vanna-Collection/image-files/talentshowkierranov92thumb.png)](https://vimeo.com/269506851)
+[![a black drag queen in a silver sequen dress accepts a dollar from a white audience member in black pants and suspenders](/collections/Vanna-Collection/image-files/Series-2/talentshowkierranov92thumb.png)](https://vimeo.com/269506851)
 [Vanna's Talent Show, Special Guest Kierra, November 1992](https://vimeo.com/269506851)
 
 ---
@@ -59,32 +58,32 @@ Miss Tri-State 1995, Copyright Held by Tri-State Pageantry, Contact [Kierra Dars
 
 Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Darshell](https://www.facebook.com/kierra.darshell/)
 
-[![A black performer poses with their legs crossed and arms out on stage](/collections/Vanna-Collection/image-files/vannacompanythumb.png)](https://vimeo.com/269515634)
+[![A black performer poses with their legs crossed and arms out on stage](/collections/Vanna-Collection/image-files/Series-3/vannacompanythumb.png)](https://vimeo.com/269515634)
 [Vanna & Company (Mister Pittsburgh 1997)](https://vimeo.com/269515634)
 
 ---
 ### Series 4: "Bar Shows" Items
-[![a white drag queen in a white robe and red wig speaks onstage with a microphone surrounded by christams deocrations](/collections/Vanna-Collection/image-files/twelvedragsthumb.png)](https://vimeo.com/267335600?share=copy)
+[![a white drag queen in a white robe and red wig speaks onstage with a microphone surrounded by christams deocrations](/collections/Vanna-Collection/image-files/Series-4/twelvedragsthumb.png)](https://vimeo.com/267335600?share=copy)
 [Twelve Drags of Christmas, Pegasus](https://vimeo.com/267335600?share=copy)
 
-[![a white man in a red polo shirt and jeans stands on stage in the spotlight announcing the show](/collections/Vanna-Collection/image-files/masqueradethumb.png)](https://vimeo.com/267347456?share=copy)
+[![a white man in a red polo shirt and jeans stands on stage in the spotlight announcing the show](/collections/Vanna-Collection/image-files/Series-4/masqueradethumb.png)](https://vimeo.com/267347456?share=copy)
 ["The Masquerade" Starring Vanna, Pegasus, November 17 1994](https://vimeo.com/267347456?share=copy)
 
-[![a white drag queen in a pink tutu dress and blonde wig stands on stage](/collections/Vanna-Collection/image-files/vanna30thumb.png)](https://vimeo.com/267352670)
+[![a white drag queen in a pink tutu dress and blonde wig stands on stage](/collections/Vanna-Collection/image-files/Series-4/vanna30thumb.png)](https://vimeo.com/267352670)
 ["The Masquerade" Starring Vanna, Pegasus, November 17 1994](https://vimeo.com/267352670)
 
-[![a black queen lip synchs in the spotlight, a close up of her face, her hand held up to her cheek and ear, wearing a crystal tiara](/collections/Vanna-Collection/image-files/divamilanthumb.png)](https://vimeo.com/268417204)
+[![a black queen lip synchs in the spotlight, a close up of her face, her hand held up to her cheek and ear, wearing a crystal tiara](/collections/Vanna-Collection/image-files/Series-4/divamilanthumb.png)](https://vimeo.com/268417204)
 [Diva! The Many Faces of Milan, Pegasus, August 17 1994](https://vimeo.com/268417204)
 
 ### Series 5: "Photographs" Items
 
 - #### Miss Pittsburgh 1996 Pageant Program
-[![backcover of the ms pgh 1996 pageant program](/collections/Vanna-Collection/image-files/pageant1thumb.jpg)](/collections/Vanna-Collection/image-files/pageant1.jpeg) [![cover of the ms pgh 1996 pageantprogram](/collections/Vanna-Collection/image-files/pageant2thumb.png)](/collections/Vanna-Collection/image-files/pageant2.jpeg) [![interior of the ms pgh 1996 pageant program](/collections/Vanna-Collection/image-files/pageant3thumb.png)](/collections/Vanna-Collection/image-files/pageant3.jpg)
+[![backcover of the ms pgh 1996 pageant program](/collections/Vanna-Collection/image-files/Series-5/pageant1thumb.jpg)](/collections/Vanna-Collection/image-files/Series-5/pageant1.jpeg) [![cover of the ms pgh 1996 pageantprogram](/collections/Vanna-Collection/image-files/Series-5/pageant2thumb.png)](/collections/Vanna-Collection/image-files/Series-5/pageant2.jpeg) [![interior of the ms pgh 1996 pageant program](/collections/Vanna-Collection/image-files/Series-5/pageant3thumb.png)](/collections/Vanna-Collection/image-files/Series-5/pageant3.jpg)
 
 Scans of the 1996 Miss Pittsburgh Pageant with a list of former title holders and a hand written note by Vanna of the 1996 Winner, Jezebel Bebbington D'Opulence.
 
 - #### Vanna and Friends
-[![Vanna with foxy](/collections/Vanna-Collection/image-files/vannafoxythumb.png)](/collections/Vanna-Collection/image-files/vannafoxy.jpg) [![glamor shot of Toffee English](/collections/Vanna-Collection/image-files/toffeethumb.png)](/collections/Vanna-Collection/image-files/toffee.jpg) [![Headshot of Eva Destruction](/collections/Vanna-Collection/image-files/evathumb.png)](/collections/Vanna-Collection/image-files/eva.JPEG)
+[![Vanna with foxy](/collections/Vanna-Collection/image-files/Series-5/vannafoxythumb.png)](/collections/Vanna-Collection/image-files/Series-5/vannafoxy.jpg) [![glamor shot of Toffee English](/collections/Vanna-Collection/image-files/Series-5/toffeethumb.png)](/collections/Vanna-Collection/image-files/Series-5/toffee.jpg) [![Headshot of Eva Destruction](/collections/Vanna-Collection/image-files/Series-5/evathumb.png)](/collections/Vanna-Collection/image-files/Series-5/eva.JPEG)
 
 Photos of Vanna and her friends including Foxy (neon bright outfit), Toffee English (Solo full body black and white), and Eva Destruction (Headshot)
 
@@ -92,5 +91,5 @@ Photos of Vanna and her friends including Foxy (neon bright outfit), Toffee Engl
 
 [Top of Page](#pittsburgh-queer-history-project)
 
-[Return to Main Directory](https://github.com/happle-happle/pqhp-digital-archive/tree/main)
+[Return to Main Directory](../../README.md)
 
