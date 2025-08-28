@@ -17,7 +17,7 @@ For complementary research on lesbian space and women's space in Pittsburgh, ple
 #### Matchbooks from Shawn's 1209 and the Norreh Social Club
 [![matchbooks from Shawn's 1209 and the Norreh Social Club](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooksthumb.jpg)](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooks.jpg) [![interior of matchbooks](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooks-interiorthumb.jpg)](/collections/Cynthia-Bruno-Gill-Collection/image-files/matchbooks-interior.jpg)
 
-2 matchbooks from Shawn’s 1209 and the Norreh Social Club. Shawn’s 1209, located at 1209 Fifth Ave, was a lesbian owned and operated bar. The Norreh Social Club, located at 1226 Herron Avenue, was a gay and lesbian social club popular for after hours drinking, owned by Donnie Thinnes.
+2 matchbooks from Shawn’s 1209 and the Norreh Social Club. Shawn’s 1209, located at 1209 Fifth Ave, was a lesbian owned and operated bar. The Norreh Social Club, located at 1226 Herron Avenue, was a gay and lesbian social club popular for after hours drinking, owned by Donny Thinnes.
 
 #### T-Shirt from the Norreh Social Club
 [![interior of matchbooks](/collections/Cynthia-Bruno-Gill-Collection/image-files/norreh-shirtthumb.jpg)](/collections/Cynthia-Bruno-Gill-Collection/image-files/norreh-shirt.jpeg)
