@@ -16,6 +16,7 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 
 ### Series 1: "VHS Tapes" Items
 
-"The Men" 
+[![male stripper poses backlight by blue footlights](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](https://vimeo.com/1137290692?fl=ip&fe=ec)
+["The Men" Male Dancer Review, Pegasus, March 17 1986](https://vimeo.com/1137290692?fl=ip&fe=ec)
 
 ### Series 2: "Audio Cassette Mixtapes" Items
