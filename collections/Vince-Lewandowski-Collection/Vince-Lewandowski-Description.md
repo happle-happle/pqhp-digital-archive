@@ -3,7 +3,7 @@
 [Return to Main](../../README.md)
 
 ## Vince Lewandowski Collection
-![male stripper poses in front of blue footlights][/collections/vince-lewandowski-collection/image-files/series-1/vl-002-017thumbnail.png]
+![male stripper poses backlight by blue footlights](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)
 
 ### Collection Description
 Vince Lewandowski is an educator in the Pittsburgh Area with a history of work as the house manager of the downtown dance club "Pegasus" located at 818 Liberty Avenue. Vince's time at Pegasus spanned the 1980s and 90's, working both with the owners of the nightclub as well as managing the club staff and booking entertainment.
@@ -15,5 +15,7 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 - [**Series 2: Audio Cassette Mixtapes**](#series-2-Audio-Cassette-Mixtapes-items) - Mixtapes by Pegasus DJ's including Billy Burrs and Jimmy Lewis as well as commercial tapes and complications ordered for playing at the bar.
 
 ### Series 1: "VHS Tapes" Items
+
+"The Men" 
 
 ### Series 2: "Audio Cassette Mixtapes" Items
