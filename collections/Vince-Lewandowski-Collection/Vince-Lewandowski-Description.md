@@ -17,6 +17,16 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 ### Series 1: "VHS Tapes" Items
 
 [![male stripper poses backlight by blue footlights](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](https://vimeo.com/1137290692?fl=ip&fe=ec)
-["The Men" Male Dancer Review, Pegasus, March 17 1986](https://vimeo.com/1137290692?fl=ip&fe=ec)
+["The Men" Male Dance Show North American Tour at Pegasus March 17, 1987](https://vimeo.com/1137290692?fl=ip&fe=ec)
+
+Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
+
+Uploads Pending
+
+--- 
+
+[Top of Page](#pittsburgh-queer-history-project)
+
+[Return to Main Directory](../../README.md)
