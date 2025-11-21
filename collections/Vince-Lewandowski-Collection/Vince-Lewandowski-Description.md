@@ -19,6 +19,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![male stripper poses backlight by blue footlights](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](https://vimeo.com/1137290692?fl=ip&fe=ec)
 ["The Men" Male Dance Show North American Tour at Pegasus March 17, 1987](https://vimeo.com/1137290692?fl=ip&fe=ec)
 
+[![three drag queens pose while lipsynching in a spotlight](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-002thumbnail.png)](https://vimeo.com/1137505711?share=copy&fl=sv&fe=ci)
+[Ramona's Show at Pegasus with Caroline Slit and China (no date)](https://vimeo.com/1137505711?share=copy&fl=sv&fe=ci)
+
 Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items

@@ -83,7 +83,7 @@ This collection contains personal items illustrating parts of her life in the pu
 
 ### [The Vince Lewandowski Collection](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
 
-[![male nude dancer poses in front of blue footlights"](./collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](./collections/Harriet-Stein-Collection/Vince-Lewandowski-Description.md)
+[![male nude dancer poses in front of blue footlights"](./collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
 
 Vince Lewandowski is an educator in the Pittsburgh Area with a history of work as the house manager of the downtown dance club "Pegasus" located at 818 Liberty Avenue. Vince's time at Pegasus spanned the 1980s and 90's, working both with the owners of the nightclub as well as managing the club staff and booking entertainment. ..[Read More](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
 
