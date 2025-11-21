@@ -22,6 +22,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![three drag queens pose while lipsynching in a spotlight](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-002thumbnail.png)](https://vimeo.com/1137505711?share=copy&fl=sv&fe=ci)
 [Ramona's Show at Pegasus with Caroline Slit and China (no date)](https://vimeo.com/1137505711?share=copy&fl=sv&fe=ci)
 
+[![drag queen in a black dress and black wig poses with arms outstretched](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-006thumbnail.png)](https://vimeo.com/1139149187)
+[Miss Pittsburgh 1988 Pageant](https://vimeo.com/1139149187)
+
 Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
