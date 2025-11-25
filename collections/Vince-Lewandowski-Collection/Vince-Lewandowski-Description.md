@@ -28,6 +28,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![drag queen face framed from the shoulders up, bathed in blue light](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-009thumbnail.png)](https://vimeo.com/1139818957?share=copy&fl=sv&fe=ci)
 [Miss Pittsburgh 1986 Pageant](https://vimeo.com/1139818957?share=copy&fl=sv&fe=ci)
 
+[![male dancer with a pony tail or mullet and a red g-string dances facing away from the camera](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-003thumbnail.png)](https://vimeo.com/1140594446?share=copy&fl=sv&fe=ci)
+[Fantasy in Motion, Pegasus 1988](https://vimeo.com/1140594446?share=copy&fl=sv&fe=ci)
+
 Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
