@@ -25,6 +25,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![drag queen in a black dress and black wig poses with arms outstretched](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-006thumbnail.png)](https://vimeo.com/1139149187)
 [Miss Pittsburgh 1988 Pageant](https://vimeo.com/1139149187)
 
+[![drag queen face framed from the shoulders up, bathed in blue light](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-009thumbnail.png)](https://vimeo.com/1139818957?share=copy&fl=sv&fe=ci)
+[Miss Pittsburgh 1986 Pageant](https://vimeo.com/1139818957?share=copy&fl=sv&fe=ci)
+
 Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
