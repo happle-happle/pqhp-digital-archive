@@ -35,6 +35,9 @@ Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
 
+The mixtape collection includes 175 audio casssettes, many produced by the DJ's booked regularly by Pegasus including DJ Jimmy Lewis and Bill Burr.
+While the full collection is not currently digitally available, a copy of DJ Jimmy Lewis's November 1993 Pegasus Mixtape "Remixxxed and Reworked" is available [here](https://carnegieart.org/event/ms89-queen-of-the-megamix-with-milan-trezur/) including a response track created by Pgh Producer [Juan Augusto LaFontaine](https://www.misc-records.com/), artwork by [Mary Tremonte](https://www.marymacktremonte.org/)supported by the MS89 Screening Series, the Carnegie Museum of Art, the Frank-Ratchye STUDIO for Creative Inquiry and the Opportunity Fund. Copies of the tape are available for purchase from [CleanerTapes](https://cleanertapes.limitedrun.com/products/853519-jimmy-lewis-and-milan-trezur-mixxxed-and-reworked-1993-cassette-tape))
+
 Further Uploads Pending
 
 --- 
