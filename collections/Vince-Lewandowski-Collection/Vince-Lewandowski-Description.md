@@ -31,6 +31,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![male dancer with a pony tail or mullet and a red g-string dances facing away from the camera](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-003thumbnail.png)](https://vimeo.com/1140594446?share=copy&fl=sv&fe=ci)
 [Fantasy in Motion, Pegasus 1988](https://vimeo.com/1140594446?share=copy&fl=sv&fe=ci)
 
+[![signal break over a close up of a man's back](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-020thumbnail.png)](https://vimeo.com/1140813923)
+[Bonertool Mix and "Encore!"](https://vimeo.com/1140813923)
+
 Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
