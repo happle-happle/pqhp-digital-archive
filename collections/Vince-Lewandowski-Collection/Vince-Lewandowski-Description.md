@@ -34,6 +34,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![signal break over a close up of a man's back](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-020thumbnail.png)](https://vimeo.com/1140813923)
 [Bonertool Mix and "Encore!"](https://vimeo.com/1140813923)
 
+[![four men walk in a line across a stage](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-012thumbnail.png)](https://vimeo.com/1140932131)
+[Mr. Pegasus 1985, September 17 1985 at Pegasus](https://vimeo.com/1140932131)
+
 Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
