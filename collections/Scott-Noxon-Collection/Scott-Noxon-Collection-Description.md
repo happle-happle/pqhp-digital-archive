@@ -18,14 +18,19 @@ In 2006, Scott purchased the downtown club Pegasus from David Morrow, the â€œMâ€
 
 ### Series 4: "Posters" Items
 
+Sub Series:
+[**Sub Series 1: Pittsburgh Eagle**](#sub-series-1-Pittsburgh-Eagle-items)
+[**Sub Series 1: Pegasus**](#sub-series-1-Pegasus-items)
+[**Sub Series 1: Sidekicks There Video Ultra Lounge**](#sub-series-1-Sidekicks-There-Video-Ultra-Lounge-items)
+
+
+### Sub Series 1: Pittsburgh Eagle Items
 **Pittsburgh Eagle 1990s**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1997_001 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1997_002 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1998_001 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1998_002 Large.jpeg" width="200"/>
-
-**Pittsburgh Eagle 2000s**
 
 **2001**
 
