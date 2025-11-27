@@ -14,18 +14,26 @@ In 2006, Scott purchased the downtown club Pegasus from David Morrow, the â€œMâ€
 
 
 ### Series *(Items within the collection organized by topic or media)*
-- [**Series 4: Posters**](#series-4-Posters--items) - Posters advertising events and guest performers (signed headshots) visiting the Pittsburg Eagle (1740 Eckert Street) Pegasus (818 Liberty Avenue) Sidekicks and later There Video Ultra Lounge (931 Liberty Avenue).
+- [**Series 4: Posters**](#series-4-Posters-items) - Posters advertising events and guest performers (signed headshots) visiting the Pittsburg Eagle (1740 Eckert Street) Pegasus (818 Liberty Avenue) Sidekicks and later There Video Ultra Lounge (931 Liberty Avenue).
 
 ### Series 4: "Posters" Items
 
+Sub Series:
+
+[**Sub Series 1: Pittsburgh Eagle**](#sub-series-1-Pittsburgh-Eagle-items)
+
+[**Sub Series 2: Pegasus**](#sub-series-1-Pegasus-items) (pending upload)
+
+[**Sub Series 3: Sidekicks There Video Ultra Lounge**](#sub-series-1-Sidekicks-There-Video-Ultra-Lounge-items) (pending upload)
+
+
+### Sub Series 1: Pittsburgh Eagle Items
 **Pittsburgh Eagle 1990s**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1997_001 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1997_002 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1998_001 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1998_002 Large.jpeg" width="200"/>
-
-**Pittsburgh Eagle 2000s**
 
 **2001**
 
@@ -154,25 +162,141 @@ In 2006, Scott purchased the downtown club Pegasus from David Morrow, the â€œMâ€
 
 **2006**
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_001 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_002 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_003 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_004 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_005 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_006 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_007 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_008 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_009 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_010 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_011 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_012 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_013 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_014 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_015 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_016 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_017 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_018 Large.jpeg" width="200"/>
+
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_019 Large.jpeg" width="200"/>
 
+**2007**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_001 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_002 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_003 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_004 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_005 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_006 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_007 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_008 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_009 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_010 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_011 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_012 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_013 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_014 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_015 Large.jpeg" width="200"/>
+
+**2008**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_001 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_002 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_003 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_004 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_005 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_006 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_007 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_008 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_009 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_010 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_011 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_012 Large.jpeg" width="200"/>
+
+**2009**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2009_001 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2009_002 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2009_003 Large.jpeg" width="200"/>
+
+**Undated Signed Posters**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_001 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_002 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_003 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_004 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_005 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_006 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_007 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_008 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_009 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_010 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_011 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_012 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_013 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_014 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_015 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_016 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_017 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_018 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_019 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_020 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_021 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_022 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_023 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_024 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_025 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_026 Large.jpeg" width="200"/>
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_027 Large.jpeg" width="200"/>
+
+
+**Unddated Unsigned Posters**
 
 Further uploads pending...
 
