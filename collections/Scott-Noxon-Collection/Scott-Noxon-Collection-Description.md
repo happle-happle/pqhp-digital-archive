@@ -635,9 +635,54 @@ Sub Series:
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_YearUnknown_010 Large.jpeg" width="200"/>
 
 
-
-
 ### Sub Series 3: Sidekicks There Video Ultra Lounge
+
+**2005**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2005_001 Large.jpeg" width="200"/>
+
+**2006**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2006_001 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2006_002 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2006_003 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2006_004 Large.jpeg" width="200"/>
+
+**2007**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_001 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_002 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_003 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_004 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_005 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_006 Large.jpeg" width="200"/>
+
+**2008**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2008_001 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2008_002 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2008_003 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2008_004 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2008_005 Large.jpeg" width="200"/>
+
+**2010**
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2010001 Large.jpeg" width="200"/>
+
+<img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2010002 Large.jpeg" width="200"/>
+
 
 Further uploads pending...
 
