@@ -22,9 +22,9 @@ Sub Series:
 
 [**Sub Series 1: Pittsburgh Eagle**](#sub-series-1-Pittsburgh-Eagle-items)
 
-[**Sub Series 2: Pegasus**](#sub-series-1-Pegasus-items)
+[**Sub Series 2: Pegasus**](#sub-series-1-Pegasus-items) (pending upload)
 
-[**Sub Series 3: Sidekicks There Video Ultra Lounge**](#sub-series-1-Sidekicks-There-Video-Ultra-Lounge-items)
+[**Sub Series 3: Sidekicks There Video Ultra Lounge**](#sub-series-1-Sidekicks-There-Video-Ultra-Lounge-items) (pending upload)
 
 
 ### Sub Series 1: Pittsburgh Eagle Items
