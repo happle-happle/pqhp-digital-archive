@@ -14,7 +14,7 @@ In 2006, Scott purchased the downtown club Pegasus from David Morrow, the â€œMâ€
 
 
 ### Series *(Items within the collection organized by topic or media)*
-- [**Series 4: Posters**](#series-4-Posters--items) - Posters advertising events and guest performers (signed headshots) visiting the Pittsburg Eagle (1740 Eckert Street) Pegasus (818 Liberty Avenue) Sidekicks and later There Video Ultra Lounge (931 Liberty Avenue).
+- [**Series 4: Posters**](#series-4-Posters-items) - Posters advertising events and guest performers (signed headshots) visiting the Pittsburg Eagle (1740 Eckert Street) Pegasus (818 Liberty Avenue) Sidekicks and later There Video Ultra Lounge (931 Liberty Avenue).
 
 ### Series 4: "Posters" Items
 
