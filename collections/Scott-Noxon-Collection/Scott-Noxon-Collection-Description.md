@@ -40,9 +40,9 @@ Sub Series:
 
 [**Sub Series 1: Pittsburgh Eagle**](#sub-series-1-Pittsburgh-Eagle-items)
 
-[**Sub Series 2: Pegasus**](#sub-series-2-Pegasus-items) (pending upload)
+[**Sub Series 2: Pegasus**](#sub-series-2-Pegasus-items)
 
-[**Sub Series 3: Sidekicks There Video Ultra Lounge**](#sub-series-3-Sidekicks-There-Video-Ultra-Lounge-items) (pending upload)
+[**Sub Series 3: Sidekicks There Video Ultra Lounge**](#sub-series-3-Sidekicks-There-Video-Ultra-Lounge-items)
 
 
 ### Sub Series 1: Pittsburgh Eagle Items
@@ -53,7 +53,7 @@ Sub Series:
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1998_001 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1998_002 Large.jpeg" width="200"/>
 
-**2001**
+**Pittsburgh Eagle 2001**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2000_001 Large.jpeg" width="200"/>
 
@@ -73,7 +73,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2001_006 Large.jpeg" width="200"/>
 
-**2002**
+**Pittsburgh Eagle 2002**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2002_001 Large.jpeg" width="200"/>
 
@@ -99,7 +99,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2002_012 Large.jpeg" width="200"/>
 
-**2003**
+**Pittsburgh Eagle 2003**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2003_001 Large.jpeg" width="200"/>
 
@@ -141,7 +141,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2003_020 Large.jpeg" width="200"/>
 
-**2004**
+**Pittsburgh Eagle 2004**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2004_001 Large.jpeg" width="200"/>
 
@@ -157,7 +157,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2004_007 Large.jpeg" width="200"/>
 
-**2005**
+**Pittsburgh Eagle 2005**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2005_001 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2005_002 Large.jpeg" width="200"/>
@@ -178,7 +178,7 @@ Sub Series:
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2005_017 Large.jpeg" width="200"/>
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2005_018 Large.jpeg" width="200"/>
 
-**2006**
+**Pittsburgh Eagle 2006**
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_001 Large.jpeg" width="200"/>
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_002 Large.jpeg" width="200"/>
@@ -217,7 +217,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2006_019 Large.jpeg" width="200"/>
 
-**2007**
+**Pittsburgh Eagle 2007**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_001 Large.jpeg" width="200"/>
 
@@ -249,7 +249,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2007_015 Large.jpeg" width="200"/>
 
-**2008**
+**Pittsburgh Eagle 2008**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_001 Large.jpeg" width="200"/>
 
@@ -275,7 +275,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2008_012 Large.jpeg" width="200"/>
 
-**2009**
+**Pittsburgh Eagle 2009**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2009_001 Large.jpeg" width="200"/>
 
@@ -283,8 +283,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_2009_003 Large.jpeg" width="200"/>
 
-**Undated Signed Posters**
-
+**Pittsburgh Eagle Undated Signed Posters**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_001 Large.jpeg" width="200"/>
 
@@ -340,8 +339,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_sign_027 Large.jpeg" width="200"/>
 
-**Unddated Unsigned Posters**
-
+**Pittsburgh Eagle Unddated Unsigned Posters**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_Yearunknown_001 Large.jpeg" width="200"/>
 
@@ -419,8 +417,7 @@ Sub Series:
 
 ### Sub Series 2: Pegasus Items
 
-**2005**
-
+**Pegasus 2005**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2005_001 Large.jpeg" width="200"/>
 
@@ -436,8 +433,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2005_007 Large.jpeg" width="200"/>
 
-**2006**
-
+**Pegasus 2006**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2006_001 Large.jpeg" width="200"/>
 
@@ -481,8 +477,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2006_021 Large.jpeg" width="200"/>
 
-**2007**
-
+**Pegasus 2007**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2007_001 Large.jpeg" width="200"/>
 
@@ -542,8 +537,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2007_029 Large.jpeg" width="200"/>
 
-**2008**
-
+**Pegasus 2008**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2008_001 Large.jpeg" width="200"/>
 
@@ -591,7 +585,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2008_023 Large.jpeg" width="200"/>
 
-**2009**
+**Pegasus 2009**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2009_001 Large.jpeg" width="200"/>
 
@@ -607,13 +601,13 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2009_007 Large.jpeg" width="200"/>
 
-**2010**
+**Pegasus 2010**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2010_001 Large.jpeg" width="200"/>
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_2010_002 Large.jpeg" width="200"/>
 
-**Undated**
+**Pegasus Undated**
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_YearUnknown_001 Large.jpeg" width="200"/>
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_YearUnknown_002 Large.jpeg" width="200"/>
@@ -637,11 +631,11 @@ Sub Series:
 
 ### Sub Series 3: Sidekicks There Video Ultra Lounge
 
-**2005**
+**Sidekicks There Video Ultra Lounge 2005**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2005_001 Large.jpeg" width="200"/>
 
-**2006**
+**Sidekicks There Video Ultra Lounge 2006**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2006_001 Large.jpeg" width="200"/>
 
@@ -651,7 +645,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2006_004 Large.jpeg" width="200"/>
 
-**2007**
+**Sidekicks There Video Ultra Lounge 2007**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_001 Large.jpeg" width="200"/>
 
@@ -665,7 +659,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2007_006 Large.jpeg" width="200"/>
 
-**2008**
+**Sidekicks There Video Ultra Lounge 2008**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2008_001 Large.jpeg" width="200"/>
 
@@ -677,7 +671,7 @@ Sub Series:
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2008_005 Large.jpeg" width="200"/>
 
-**2010**
+**Sidekicks There Video Ultra Lounge 2010**
 
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/there2010001 Large.jpeg" width="200"/>
 
