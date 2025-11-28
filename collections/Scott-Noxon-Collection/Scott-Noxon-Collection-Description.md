@@ -25,7 +25,72 @@ In 2006, Scott purchased the downtown club Pegasus from David Morrow, the â€œMâ€
 
 
 ### Series 1: "VHS" Items
-(pending upload)
+
+[Miss Pittsburgh 1992 Part 1](https://vimeo.com/303894542?fl=sm&fe=ec)
+
+[Miss Pittsburgh 1992 Part 2](https://vimeo.com/303899781?fl=sm&fe=ec)
+
+[Walk Like An Egyptian, Pegasus Halloween 1988](https://vimeo.com/276487495?fl=sm&fe=ec)
+
+[Ms Pittsburgh Leather 1997](https://vimeo.com/797810858?fl=sm&fe=ec)
+
+[SN-002-012 Pegasus Drag Show](https://vimeo.com/276493959?fl=sm&fe=ec)
+
+[SN-002-001 Pegasus Drag Show](https://vimeo.com/303834530?fl=sm&fe=ec)
+
+[SN-002-003 Male Dancer Night at Pegasus](https://vimeo.com/303836776?fl=sm&fe=ec)
+
+[SN-001-010 Ms Pleasant Present Pageant](https://vimeo.com/303829413?fl=sm&fe=ec)
+
+[SN-002-005 Pegasus Drag Show](https://vimeo.com/303837394?fl=sm&fe=ec)
+
+[SN-002-010 Page Video "Men" Slideshow](https://vimeo.com/303851186?fl=sm&fe=ec)
+
+[SN-002-022 Ms Pegasus 2002](https://vimeo.com/303859367?fl=sm&fe=ec)
+
+[SN-001-003 Crystal St. Claire's Barbie Birthday](https://vimeo.com/303802431?fl=sm&fe=ec)
+
+[SN-002-043 Ms Pittsburgh, May 2002](https://vimeo.com/303888791?fl=sm&fe=ec)
+
+[SN-001-009 Ms Pittsburgh Reunion Show](https://vimeo.com/303825619?fl=sm&fe=ec)
+
+[SN-002-041 Eagle TV](https://vimeo.com/303883348?fl=sm&fe=ec)
+
+[SN-002-023 Kierra Darshell's Stars of the Millenium](https://vimeo.com/303864186?fl=sm&fe=ec)
+
+[SN-002-011 CMU Drama Drag Show at Pegasus](https://vimeo.com/303854654?fl=sm&fe=ec)
+
+[SN-002-017 Kierra Darshell's Stars of the Millenium](https://vimeo.com/303856724?fl=sm&fe=ec)
+
+[SN-001-005 Ms Pittsburgh May 23 2001](https://vimeo.com/303807824?fl=sm&fe=ec)
+
+[SN-002-007 Pegasus Drag Show "Part 1"](https://vimeo.com/303843647?fl=sm&fe=ec)
+
+[SN-002-007 Pegasus Drag Show "Part 2"](https://vimeo.com/303849308?fl=sm&fe=ec)
+
+[SN-001-008 Souisa and Eunike 2 Die 4 March 27 2002](https://vimeo.com/303823813?fl=sm&fe=ec)
+
+[SN-002-021 Kierra Darshell's Drag Search Contest at Pegasus](https://vimeo.com/303858324?fl=sm&fe=ec)
+
+[SN-002-028 Interview Backstage at Ms Teen Pride](https://vimeo.com/303875054?fl=sm&fe=ec)
+
+[SN-001-007 4th Annual Ms Keystone State](https://vimeo.com/303821153?fl=sm&fe=ec)
+
+[SN-002-024 Tijani's Bitch Ball 1996](https://vimeo.com/303866697?fl=sm&fe=ec)
+
+[SN-002-036 Kierra Darshell's Stars of the Millenium Contest](https://vimeo.com/303875264?fl=sm&fe=ec)
+
+[SN-002-040 Fantasy in Motion at Pegasus March 17 1989](https://vimeo.com/303879435?fl=sm&fe=ec)
+
+[SN-002-038 Page Video "Men 37" Slideshow](https://vimeo.com/303877272?fl=sm&fe=ec)
+
+[SN-001-006 CMU Drama Drag Show February 6 2002](https://vimeo.com/303818204?fl=sm&fe=ec)
+
+[SN-002-042 Amateur Strip Night with Mr. Pittsburgh 1995](https://vimeo.com/303886329?fl=sm&fe=ec)
+
+[SN-002-027 "United for Jamie" Jamie Lynn Stickle Memorial and Fundraiser](https://vimeo.com/303870341?fl=sm&fe=ec)
+
+[SN-002-009 Pegasus Drag Show Featuring Contestants in upcoming Miss Pittsburgh 2002 Pageant](https://vimeo.com/manage/videos/303849421)
 
 
 ### Series 2: "Shirts" Items
