@@ -48,7 +48,7 @@ In 2006, Scott purchased the downtown club Pegasus from [David Morrow](https://g
 
 [SN-002-007 Pegasus Drag Show "Part 2"](https://vimeo.com/303849308?fl=sm&fe=ec)
 
-[SN-001-008 Souisa and Eunike 2 Die 4 March 27 2002](https://vimeo.com/303823813?fl=sm&fe=ec)
+[SN-001-008 Jouija and Eunike 2 Die 4 March 27 2002](https://vimeo.com/303823813?fl=sm&fe=ec)
 
 [SN-002-021 Kierra Darshell's Drag Search Contest at Pegasus](https://vimeo.com/303858324?fl=sm&fe=ec)
 
