@@ -26,9 +26,11 @@ In 2006, Scott purchased the downtown club Pegasus from [David Morrow](https://g
 
 ### Series 1: "VHS" Items
 
-[**Sub series 1: Bar shows](#sub-series-1-bar-shows)
-[**Sub series 2: Special Events](#sub-series-1-special-events)
-[**Sub series 1: slideshows](#sub-series-1-slideshows)
+[Sub series 1: Bar shows](#sub-series-1-bar-shows)
+
+[Sub series 2: Special Events](#sub-series-1-special-events)
+
+[Sub series 1: slideshows](#sub-series-1-slideshows)
 
 ### Sub Series 1: Bar Shows
 
