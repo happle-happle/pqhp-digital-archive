@@ -15,7 +15,7 @@ In 2006, Scott purchased the downtown club Pegasus from [David Morrow](https://g
 
 ### Series *(Items within the collection organized by topic or media)*
 
-- [**Series 1: VHS**](#series-1-VHS-items) - Tapes from performances and community events at the Pittsburgh Eagle and Pegasus.
+- [**Series 1: VHS**](#series-1-VHS-items) - Tapes from performances and community events at the Pittsburgh Eagle and Pegasus. Tapes are subdivided into Bar Shows, Special Events/Holidays, and Slideshows.
 
 - [**Series 2: Shirts**](#series-2-Shirts-items) - Collection of Shirts from LGBTQ events and Gay Bars around the Country, collected by Scott Noxon.
 
@@ -26,7 +26,11 @@ In 2006, Scott purchased the downtown club Pegasus from [David Morrow](https://g
 
 ### Series 1: "VHS" Items
 
-**Bar Shows**
+[**Sub series 1: Bar shows](#sub-series-1-bar-shows)
+[**Sub series 2: Special Events](#sub-series-1-special-events)
+[**Sub series 1: slideshows](#sub-series-1-slideshows)
+
+### Sub Series 1: Bar Shows
 
 [SN-002-012 Pegasus Drag Show](https://vimeo.com/276493959?fl=sm&fe=ec)
 
@@ -92,7 +96,7 @@ In 2006, Scott purchased the downtown club Pegasus from [David Morrow](https://g
 
 <a href="https://vimeo.com/303886329?fl=sm&fe=ec"><img src="/collections/Scott-Noxon-Collection/image-files/Series-1/sn-002-042.png" width="200"/></a>
 
-**Special Events (Holidays and Pageants)**
+### Sub Series 1: Special Events
 
 [Walk Like An Egyptian, Pegasus Halloween 1988](https://vimeo.com/276487495?fl=sm&fe=ec)
 
@@ -150,7 +154,7 @@ In 2006, Scott purchased the downtown club Pegasus from [David Morrow](https://g
 
 <a href="https://vimeo.com/303849421"><img src="/collections/Scott-Noxon-Collection/image-files/Series-1/sn-002-009.png" width="200"/></a>
 
-**Made for Video (Slideshows)**
+### Sub Series 1: Slideshows
 
 [SN-002-010 Page Video "Men" Slideshow](https://vimeo.com/303851186?fl=sm&fe=ec)
 
