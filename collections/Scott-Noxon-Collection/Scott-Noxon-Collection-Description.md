@@ -65,9 +65,9 @@ In 2006, Scott purchased the downtown club Pegasus from [David Morrow](https://g
 
 [Walk Like An Egyptian, Pegasus Halloween 1988](https://vimeo.com/276487495?fl=sm&fe=ec)
 
-[Miss Pittsburgh 1992 Part 1](https://vimeo.com/303894542?fl=sm&fe=ec)
+[SN-002-045 Miss Pittsburgh 1992 Part 1](https://vimeo.com/303894542?fl=sm&fe=ec)
 
-[Miss Pittsburgh 1992 Part 2](https://vimeo.com/303899781?fl=sm&fe=ec)
+[SN-002-045 Miss Pittsburgh 1992 Part 2](https://vimeo.com/303899781?fl=sm&fe=ec)
 
 [Ms Pittsburgh Leather 1997](https://vimeo.com/797810858?fl=sm&fe=ec)
 
