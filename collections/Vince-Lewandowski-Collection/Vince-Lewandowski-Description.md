@@ -37,6 +37,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![four men walk in a line across a stage](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-012thumbnail.png)](https://vimeo.com/1140932131)
 [Mr. Pegasus 1985, September 17 1985 at Pegasus](https://vimeo.com/1140932131)
 
+[![A drag queen stands on stage in a white sequin dress and black wig, a projected face behind her on stage](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-011thumbnail.png)](https://vimeo.com/1144280678)
+[Mr. Pegasus 1985, September 17 1985 at Pegasus](https://vimeo.com/1144280678)
+
 Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
