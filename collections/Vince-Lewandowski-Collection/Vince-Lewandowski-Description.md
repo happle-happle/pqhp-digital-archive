@@ -40,6 +40,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![A drag queen stands on stage in a white sequin dress and black wig, a projected face behind her on stage](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-011thumbnail.png)](https://vimeo.com/1144280678)
 [A Night of Illusions with Denise Darshell, Farah McCrae and Misty Knight November 23 1988 at Pegasus](https://vimeo.com/1144280678)
 
+[![a man smiles in the dark](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-015thumbnail.png)](https://vimeo.com/1146248363)
+[New Years Eve December 31st 1986 at Pegasus](https://vimeo.com/1146248363)
+
 Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
