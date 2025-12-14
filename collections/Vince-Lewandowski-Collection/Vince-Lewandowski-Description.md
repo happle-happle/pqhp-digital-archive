@@ -43,6 +43,9 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![a man smiles in the dark](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-015thumbnail.png)](https://vimeo.com/1146248363)
 [New Years Eve December 31st 1986 at Pegasus](https://vimeo.com/1146248363)
 
+[![a man in a purple sequin coat smiles with a microphone](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-019thumbnail.png)](https://vimeo.com/1146273905)
+[Hunter & the Headlines June 1987 at Pegasus](https://vimeo.com/1146273905)
+
 Further Uploads Pending
 
 ### Series 2: "Audio Cassette Mixtapes" Items
