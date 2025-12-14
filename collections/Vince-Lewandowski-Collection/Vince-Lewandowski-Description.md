@@ -46,7 +46,10 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![a man in a purple sequin coat smiles with a microphone](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-019thumbnail.png)](https://vimeo.com/1146273905)
 [Hunter & the Headlines June 1987 at Pegasus](https://vimeo.com/1146273905)
 
-Further Uploads Pending
+
+[![a shirtless man smiles while a hand grazes his abdomen](/collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-026thumbnail.png)](https://vimeo.com/1146283022)
+[Hunter & the Headlines September 1987 at Pegasus](https://vimeo.com/1146283022)
+
 
 ### Series 2: "Audio Cassette Mixtapes" Items
 
