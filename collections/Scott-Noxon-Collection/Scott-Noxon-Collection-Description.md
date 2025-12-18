@@ -775,7 +775,7 @@ Sub Series:
 <img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Pegasus_YearUnknown_010 Large.jpeg" width="200"/>
 
 
-### Sub Series 3: Sidekicks There Video Ultra Lounge
+### Sub Series 3: Sidekicks There Video Ultra Lounge Items
 
 **Sidekicks There Video Ultra Lounge 2005**
 
