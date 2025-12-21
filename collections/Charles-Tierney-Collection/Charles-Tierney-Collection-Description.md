@@ -36,51 +36,37 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 
 ### Series 2: Photographs Items
 
-**hand written notes accompanying photographs were written by Harrison Apple with Chuck Tierney in 2013**
+*Hand-written notes accompanying photographs were written by Harrison Apple with Chuck Tierney in 2013*
 
-**Auntie Mame's later Images 965 Liberty Ave, Downtown Pittsburgh**
+#### Auntie Mame's later Images 965 Liberty Ave, Downtown Pittsburgh
 
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame003 Large.jpeg" width="200"/>
 
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images002 Large.jpeg" width="200"/>
 
-**Holiday Bar 4620 Forbes Ave, Oakland Pittsburgh**
+#### Holiday Bar 4620 Forbes Ave, Oakland Pittsburgh
 
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday003 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday004 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday005 Large.jpeg" width="200"/>
 
-**NY,NY later "5801" 5801 Ellsworth Ave, Shadyside Pittsburgh**
+#### NY,NY later "5801" 5801 Ellsworth Ave, Shadyside Pittsburgh
 
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY002 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY003 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY004 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY005 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY006 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY007 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY008 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY009 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY010 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY011 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY012 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY013 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY014 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY015 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY016 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY017 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY018 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY019 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY020 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY021 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY022 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY023 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY024 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY003 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY004 Large.jpeg" width="200"/> 
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY005 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY006 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY007 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY008 Large.jpeg" width="200"/> 
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY009 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY010 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY011 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY012 Large.jpeg" width="200"/> 
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY013 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY014 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY015 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY016 Large.jpeg" width="200"/> 
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY017 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY018 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY019 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY020 Large.jpeg" width="200"/> 
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY021 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY022 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY023 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY024 Large.jpeg" width="200"/> 
+
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY025 Large.jpeg" width="200"/>
 
 **Venture Inn 923 Liberty Ave, Downtown Pittsburgh**
 
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn002 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn003 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn003 Large.jpeg" width="200"/>
 
 ### Series 3: VHS Tapes Items
 
