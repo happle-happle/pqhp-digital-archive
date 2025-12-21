@@ -40,9 +40,7 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 
 #### Auntie Mame's later Images 965 Liberty Ave, Downtown Pittsburgh
 
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame003 Large.jpeg" width="200"/>
-
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame003 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images002 Large.jpeg" width="200"/>
 
 #### Holiday Bar 4620 Forbes Ave, Oakland Pittsburgh
 
