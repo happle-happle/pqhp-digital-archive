@@ -21,14 +21,91 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 
 ### Series 1: Ephemera Items
 
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecretFrame001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Holiday_PlayingCard_001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/LambdaAward_OrgofYear_85001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/LambdaAward_Security_84_001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/PicnicVisors001 Large.jpeg" width="200"/>
+
 ### Series 2: Photographs Items
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Trinkets001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame003 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday003 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday004 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday005 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY003 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY004 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY005 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY006 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY007 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY008 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY009 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY010 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY011 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY012 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY013 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY014 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY015 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY016 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY017 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY018 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY019 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY020 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY021 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY022 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY023 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY024 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY025 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn003 Large.jpeg" width="200"/>
 
 ### Series 3: VHS Tapes Items
 
+[![woman facing screen filling the frame](/collections/Charles-Tierney-Collection/image-files/Series-3/customvideothumb.png)](https://vimeo.com/331570406)
+[Custom Video #3 for Images by Blueprint Video 1990](https://vimeo.com/1139149187)
+
+[![A person in blue coveralls and a blonde wig sings in front of a stylized map of the United States of America](/collections/Charles-Tierney-Collection/image-files/Series-3/halloween1992thumb.png)]([https://vimeo.com/331570406) [Images Halloween 1992](https://vimeo.com/331577610)
+
+[![a person in black and white makeup stands in front of a faux stone wall](./image-files/Series-3/imageshalloweenthumb.png)](https://vimeo.com/276493676) [Images Halloween Undated](https://vimeo.com/276493676)
+
+[![a person in black and white makeup stands in front of a faux stone wall](./image-files/Series-3/missimagesthumb.png)](https://vimeo.com/331598215) [Miss Images 1991](https://vimeo.com/331598215)
+
 ### Series 4: Newspapers Items
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-4/InPgh_92700001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-4/InPgh_92700_002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-4/InPgh_92700_003 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-4/InPgh_92700_004 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-4/Twitt_001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-4/Twitt_002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-4/Twitt2_001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-4/Twitt2_002 Large.jpeg" width="200"/>
 
 ### Series 5: Last Call for Holiday Bar Items
 
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_003 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_004 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_005 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_006 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_007 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_008 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_009 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_010 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_011 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_012 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_013 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_014 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_015 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_016 Large.jpeg" width="200"/>
 
 --- 
 
