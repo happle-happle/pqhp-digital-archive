@@ -85,11 +85,21 @@ This collection contains personal items illustrating parts of her life in the pu
 
 ### [The Vince Lewandowski Collection](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
 
-[![male nude dancer poses in front of blue footlights"](./collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
+[![male nude dancer poses in front of blue footlights](./collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
 
 Vince Lewandowski is an educator in the Pittsburgh Area with a history of work as the house manager of the downtown dance club "Pegasus" located at 818 Liberty Avenue. Vince's time at Pegasus spanned the 1980s and 90's, working both with the owners of the nightclub as well as managing the club staff and booking entertainment. ..[Read More](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
 
 ---
+
+
+### [The Charles Tierney Collection](./collections/Charles-Tierney-Collection/Charles-Tierney-Description.md)
+
+[![Chuck Tierney Kisses Chuck Honse on the cheek at the Venture Inn](./collections/Vince-Lewandowski-Collection/image-files/Series-1/vl-002-017thumbnail.png)](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
+
+The collection contains photographs, publications, and ephemera produced broadly for the LGBT population of Pittsburgh from the 1980s to the 1990s with an emphasis on documentation of social events tied to gay owned and operated bars. These materials were collected by Chuck Tierney as a bar patron, employee, and owner. Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a gay business owner and community organizer in Pittsburgh Pennsylvania. With his partner Chuck Honse, he owned and operated the Holiday Bar in Oakland for over 40 years, along with New York, New York (now 5801 in Shadyside) Images Bar (Downtown), The Fourth Avenue Stock Exchange (Formerly Zak’s 4th Avenue Downtown), and Gilbert’s Restaurant (now the Bloomfield Bridge Tavern in Bloomfield).
+[Read More](./collections/Charles-Tierney-Collection/Charles-Tierney-Description.md)
+
+--
 
 ### [The Scott Noxon Collection](./collections/Scott-Noxon-Collection/Scott-Noxon-Collection-Description.md)
 <a href="./collections/Scott-Noxon-Collection/Scott-Noxon-Collection-Description.md"><img src="/collections/Scott-Noxon-Collection/image-files/Series-4/Eagle_1997_001 Large.jpeg" width="200"/></a>
