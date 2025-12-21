@@ -33,6 +33,9 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Trinkets001 Large.jpeg" width="400"/>
 
 ### Series 2: Photographs Items
+
+**hand written notes accompanying photographs were written by Harrison Apple with Chuck Tierney in 2013**
+
 **Auntie Mame's later Images 965 Liberty Ave, Downtown Pittsburgh**
 
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame003 Large.jpeg" width="200"/>
