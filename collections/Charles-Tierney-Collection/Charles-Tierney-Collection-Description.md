@@ -21,27 +21,30 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 
 ### Series 1: Ephemera Items
 
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret002 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecretFrame001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Holiday_PlayingCard_001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/LambdaAward_OrgofYear_85001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/LambdaAward_Security_84_001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/PicnicVisors001 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret001 Large.jpeg" width="400"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret002 Large.jpeg" width="400"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecretFrame001 Large.jpeg" width="400"/>
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Holiday_PlayingCard_001 Large.jpeg" width="400"/>
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/LambdaAward_OrgofYear_85001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/LambdaAward_Security_84_001 Large.jpeg" width="200"/>
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/PicnicVisors001 Large.jpeg" width="400"/>
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Trinkets001 Large.jpeg" width="400"/>
 
 ### Series 2: Photographs Items
+**Auntie Mame's later Images 965 Liberty Ave, Downtown Pittsburgh**
 
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Trinkets001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame002 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame003 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday002 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday003 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday004 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday005 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images002 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_AuntieMame003 Large.jpeg" width="200"/>
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Images002 Large.jpeg" width="200"/>
+
+**Holiday Bar 4620 Forbes Ave, Oakland Pittsburgh**
+
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday001 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday002 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday003 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday004 Large.jpeg" width="200"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_Holiday005 Large.jpeg" width="200"/>
+
+**NY,NY later "5801" 5801 Ellsworth Ave, Shadyside Pittsburgh**
+
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY001 Large.jpeg" width="200"/>
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY002 Large.jpeg" width="200"/>
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY003 Large.jpeg" width="200"/>
@@ -67,6 +70,9 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY023 Large.jpeg" width="200"/>
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY024 Large.jpeg" width="200"/>
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_NYNY025 Large.jpeg" width="200"/>
+
+**Venture Inn 923 Liberty Ave, Downtown Pittsburgh**
+
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn001 Large.jpeg" width="200"/>
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn002 Large.jpeg" width="200"/>
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn003 Large.jpeg" width="200"/>
