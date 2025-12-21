@@ -94,7 +94,7 @@ Vince Lewandowski is an educator in the Pittsburgh Area with a history of work a
 
 ### [The Charles Tierney Collection](./collections/Charles-Tierney-Collection/Charles-Tierney-Description.md)
 
-[![Chuck Tierney Kisses Chuck Honse on the cheek at the Venture Inn](./collections/Charles-Tierney-Collection/image-files/charles-tierney-collectionthumb.png)](./collections/Vince-Lewandowski-Collection/Vince-Lewandowski-Description.md)
+[![Chuck Tierney Kisses Chuck Honse on the cheek at the Venture Inn](./collections/Charles-Tierney-Collection/image-files/charles-tierney-collectionthumb.png)](./collections/Charles-Tierney-Collection/Charles-Tierney-Description.md)
 
 The collection contains photographs, publications, and ephemera produced broadly for the LGBT population of Pittsburgh from the 1980s to the 1990s with an emphasis on documentation of social events tied to gay owned and operated bars. These materials were collected by Chuck Tierney as a bar patron, employee, and owner. Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a gay business owner and community organizer in Pittsburgh Pennsylvania. With his partner Chuck Honse, he owned and operated the Holiday Bar in Oakland for over 40 years, along with New York, New York (now 5801 in Shadyside) Images Bar (Downtown), The Fourth Avenue Stock Exchange (Formerly Zak’s 4th Avenue Downtown), and Gilbert’s Restaurant (now the Bloomfield Bridge Tavern in Bloomfield).
 [Read More](./collections/Charles-Tierney-Collection/Charles-Tierney-Description.md)
