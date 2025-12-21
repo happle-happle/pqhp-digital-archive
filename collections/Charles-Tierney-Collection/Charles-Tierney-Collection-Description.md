@@ -99,22 +99,22 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 
 ### Series 5: Last Call for Holiday Bar Items
 
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_001 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_002 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_003 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_004 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_005 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_006 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_007 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_008 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_009 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_010 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_011 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_012 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_013 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_014 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_015 Large.jpeg" width="200"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_016 Large.jpeg" width="200"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_001 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_002 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_003 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_004 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_005 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_006 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_007 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_008 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_009 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_010 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_011 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_012 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_013 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_014 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_015 Large.jpeg" width="800"/>
+<img src="/collections/Charles-Tierney-Collection/image-files/Series-5/lastcall_holiday_016 Large.jpeg" width="800"/>
 
 --- 
 
