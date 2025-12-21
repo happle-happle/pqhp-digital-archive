@@ -6,6 +6,8 @@
 
 [![a man kissing his partner's cheek in front of decorative foil wallpaper](/collections/Charles-Tierney-Collection/image-files/charles-tierney-collectionthumb.png)](./Charles-Tierney-Description.md)
 
+*(Chuck Tierney Kisses Chuck Honse on the cheek in their early days at the Venture Inn, 923 Liberty Ave Downtown Pittsburgh)*
+
 ### Collection Description
 The collection contains photographs, publications, and ephemera produced broadly for the LGBT population of Pittsburgh from the 1980s to the 1990s with an emphasis on documentation of social events tied to gay owned and operated bars. These materials were collected by Chuck Tierney as a bar patron, employee, and owner.
 
