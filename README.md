@@ -77,7 +77,7 @@ These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively 
 
 ### [The David Kornely Marionette and Mixtape Collection](./collections/David-Kornely-Collection/image-files/davidkornelycollectionthumb.png)
 
-[![David surrounded by 4 Marionettes](./collections/David-Kornely-Collection/image-files/davidkornelycollectionthumb.png)](./collections/BC-DS-LS-Collection/BC-DS-LS-Description.md)
+[![David surrounded by 4 Marionettes](./collections/David-Kornely-Collection/image-files/Series-1/davidkornellycollectionthumb.png)](./collections/David-Kornely-Collection/David-Kornely-Description.md)
 
 The collection contains a poster, recorded puppet show, and mixtapes created by David Kornely (DJ Name Curt Allen). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters around the SW Pennsylvania area, as well as a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the Lucky After Dark exhibition where his puppet "Elvira Frump" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role a DJ as WAMO and other stations, he would make mixtapes for friends...[Read More](./collections/BC-DS-LS-Collection/David-Kornely-Description.md)
 
