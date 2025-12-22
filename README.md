@@ -75,9 +75,9 @@ These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively 
 
 ---
 
-### [The David Kornely Marionette and Mixtape Collection](./collections/David-Kornely-Collection/image-files/davidkornelycollectionthumb.png)
+### [The David Kornely Marionette and Mixtape Collection](./collections/David-Kornely-Collection/David-Kornely-Description.png)
 
-[![David surrounded by 4 Marionettes](./collections/David-Kornely-Collection/image-files/Series-1/davidkornellycollectionthumb.png)](./collections/David-Kornely-Collection/David-Kornely-Description.md)
+[![David with four of his marionettes](./collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](./collections/David-Kornely-Collection/David-Kornely-Description.md)
 
 The collection contains a poster, recorded puppet show, and mixtapes created by David Kornely (DJ Name Curt Allen). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters around the SW Pennsylvania area, as well as a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the Lucky After Dark exhibition where his puppet "Elvira Frump" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role a DJ as WAMO and other stations, he would make mixtapes for friends...[Read More](./collections/BC-DS-LS-Collection/David-Kornely-Description.md)
 
@@ -85,7 +85,7 @@ The collection contains a poster, recorded puppet show, and mixtapes created by 
 
 ### [The Harriet Stein Collection](./collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 
-[![harriet and friends"](./collections/Harriet-Stein-Collection/image-files/Series-2/Scan115thumb.png)](./collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
+[![harriet and friends](./collections/Harriet-Stein-Collection/image-files/Series-2/Scan115thumb.png)](./collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 
 This collection contains personal items illustrating parts of her life in the punk, lesbian, and radical political scene in Pittsburgh from the 1970s to the present. Items include physical ephemera documenting the voter outreach conducted by Harriet as a member of the Gertrude Stein Political Club of Greater Pittsburgh, as well as her punk poster/newsletter collection pulled from Pittsburgh telephone polls..[Read More](./collections/Harriet-Stein-Collection/Harriet-Stein-Description.md)
 
