@@ -9,7 +9,7 @@
 *(David poses with is Marionettes at the Puppet Palace)*
 
 ### Collection Description
-The collection contains a poster, recorded puppet show, and mixtapes created by David Kornely (DJ Name Curt Allen). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters around the SW Pennsylvania area, as well as a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the Lucky After Dark exhibition where his puppet "Madame" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role a DJ as WAMO and other stations, he would make mixtapes for friends.
+The collection contains a poster, recorded puppet show, and mixtapes created by David Kornely (DJ Name Curt Allen). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters around the SW Pennsylvania area, as well as a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the Lucky After Dark exhibition where his puppet "Elvira Frump" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role a DJ as WAMO and other stations, he would make mixtapes for friends.
 
 Age 78, a longtime resident of Etna and Blawnox PA, passed away peacefully on July 29th, 2022 after a long illness. David was the owner and creator of Kornely's Marionettes, who entertained children and adults throughout the Pittsburgh area at local malls with his marionette show. David also owned and operated Michael Blaha Florist in Etna. 
 
@@ -39,6 +39,33 @@ Age 78, a longtime resident of Etna and Blawnox PA, passed away peacefully on Ju
 
 [For Michael Hunter from David Kornely](https://www.mixcloud.com/pqhp/for-michael-hunter-from-the-david-kornely-mixtape-collection/)
 
+[![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/christmas-cart-from-the-david-kornely-mixtape-collection/)
+
+[Christmas Cart](https://www.mixcloud.com/pqhp/christmas-cart-from-the-david-kornely-mixtape-collection/)
+
+[![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/bills-last-tape-from-the-david-kornely-mixtape-collection/)
+
+[Bill's Last Tape](https://www.mixcloud.com/pqhp/bills-last-tape-from-the-david-kornely-mixtape-collection/)
+
+[![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/bill-good-from-the-david-kornely-mixtape-collection/)
+
+[Bill - Good](https://www.mixcloud.com/pqhp/bill-good-from-the-david-kornely-mixtape-collection/)
+
+[![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/trapize-from-the-david-kornely-mixtape-collection/)
+
+[Trapize](https://www.mixcloud.com/pqhp/trapize-from-the-david-kornely-mixtape-collection/)
+
+[![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/tender-trap-from-the-david-kornely-mixtape-collection/)
+
+[Tender Trap](https://www.mixcloud.com/pqhp/tender-trap-from-the-david-kornely-mixtape-collection/)
+
+[![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/some-new-wave-from-the-david-kornely-mixtape-collection/)
+
+[Some New Wave](https://www.mixcloud.com/pqhp/some-new-wave-from-the-david-kornely-mixtape-collection/)
+
+[![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/kurt-allen-mix-from-the-david-kornely-mixtape-collection/)
+
+[Kurt Allen Mix](https://www.mixcloud.com/pqhp/kurt-allen-mix-from-the-david-kornely-mixtape-collection/)
 
 --- 
 
