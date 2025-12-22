@@ -65,7 +65,7 @@ Age 78, a longtime resident of Etna and Blawnox PA, passed away peacefully on Ju
 
 [![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/kurt-allen-mix-from-the-david-kornely-mixtape-collection/)
 
-[Kurt Allen Mix](https://www.mixcloud.com/pqhp/kurt-allen-mix-from-the-david-kornely-mixtape-collection/)
+[Curt Allen Mix](https://www.mixcloud.com/pqhp/kurt-allen-mix-from-the-david-kornely-mixtape-collection/)
 
 --- 
 
