@@ -53,11 +53,11 @@ Age 78, a longtime resident of Etna and Blawnox PA, passed away peacefully on Ju
 
 [![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/trapize-from-the-david-kornely-mixtape-collection/)
 
-[Trapize](https://www.mixcloud.com/pqhp/trapize-from-the-david-kornely-mixtape-collection/)
+[Trapize (downstairs) 229 S. Highland Ave, Shadyside Pittsburgh](https://www.mixcloud.com/pqhp/trapize-from-the-david-kornely-mixtape-collection/)
 
 [![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/tender-trap-from-the-david-kornely-mixtape-collection/)
 
-[Tender Trap](https://www.mixcloud.com/pqhp/tender-trap-from-the-david-kornely-mixtape-collection/)
+[Tender Trap (upstairs) 229 S. Highland Ave, Shadyside Pittsburgh](https://www.mixcloud.com/pqhp/tender-trap-from-the-david-kornely-mixtape-collection/)
 
 [![David surrounded by his marionettes](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://www.mixcloud.com/pqhp/some-new-wave-from-the-david-kornely-mixtape-collection/)
 
