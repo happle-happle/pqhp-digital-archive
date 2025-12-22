@@ -71,7 +71,15 @@ The Dame Fefe Damiana D'Opulence collection contains digital copies of photograp
 
 [![Cassette Jcard labeld "last mix"](./collections/BC-DS-LS-Collection/image-files/lastmixthumb.png)](./collections/BC-DS-LS-Collection/BC-DS-LS-Description.md)
 
-These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively during their time at Zack’s Fourth Avenue in Downtown Pittsburgh. Though many DJs in Pittsburgh made tapes to sell to supplement the low rate offered by most clubs, the tapes in this collection were made specifically for in-house use, usually played early in the night before the crowds arrived. The tapes were collected and preserved by Brian Czarniecki, lightboard operator for Zack’s Fourth Avenue, and lent for digitization to become part of the Pittsburgh Queer History Project archives..[Read More](./collections/BC-DS-LS-Collection/BC-DS-LS-Description.md)
+These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively during their time at Zack’s Fourth Avenue in Downtown Pittsburgh. Though many DJs in Pittsburgh made tapes to sell to supplement the low rate offered by most clubs, the tapes in this collection were made specifically for in-house use, usually played early in the night before the crowds arrived. The tapes were collected and preserved by Brian Czarniecki, lightboard operator for Zack’s Fourth Avenue, and lent for digitization to become part of the Pittsburgh Queer History Project archives...[Read More](./collections/BC-DS-LS-Collection/BC-DS-LS-Description.md)
+
+---
+
+### [The David Kornely Marionette and Mixtape Collection](./collections/David-Kornely-Collection/image-files/davidkornelycollectionthumb.png)
+
+[![David surrounded by 4 Marionettes](./collections/David-Kornely-Collection/image-files/davidkornelycollectionthumb.png)](./collections/BC-DS-LS-Collection/BC-DS-LS-Description.md)
+
+The collection contains a poster, recorded puppet show, and mixtapes created by David Kornely (DJ Name Curt Allen). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters around the SW Pennsylvania area, as well as a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the Lucky After Dark exhibition where his puppet "Elvira Frump" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role a DJ as WAMO and other stations, he would make mixtapes for friends...[Read More](./collections/BC-DS-LS-Collection/David-Kornely-Description.md)
 
 ---
 
