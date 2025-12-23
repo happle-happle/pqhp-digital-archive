@@ -20,7 +20,8 @@ This collection contains one poster, one recorded puppet show of "Korneliy's Mar
 
 ### Series 1: Poster
 
-<img src="/collections/David-Kornely-Collection/image-files/Series-1/IMG_3642 Large.jpeg" width="200"/>
+
+<a href="/collections/David-Kornely-Collection/image-files/Series-1/IMG_3642 Large.jpeg" target="_blank" rel="noopener noreferrer"><img src="/collections/David-Kornely-Collection/image-files/Series-1/IMG_3642 Large.jpeg" width="200"/></a>
 
 ### Series 2: VHS
 
