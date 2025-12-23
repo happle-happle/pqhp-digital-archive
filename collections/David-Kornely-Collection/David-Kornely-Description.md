@@ -6,7 +6,7 @@
 
 [![a man poses in a crowd of 4 marionettes dressed in feather boas](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](./David-Kornely-Description.md)
 
-*(David poses with is Marionettes at the Puppet Palace)*
+*(David poses with is Marionettes at the "Puppet Palace" - his Etna home)*
 
 ### Collection Description
 This collection contains one poster, one recorded puppet show of "Korneliy's Marionettes", and several mixtapes created by David Kornely (DJ Name "Curt Allen"). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters in the SW Pennsylvania area. He was also a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the ["Lucky After Dark exhibition"](https://pittsburghqueerhistory.com/wp-content/uploads/2023/05/lucky-after-dark-catalog.pdf) where his puppet "Elvira Frump" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role as a radio and club DJ, he would make personal mixtapes for friends. David also owned and operated Michael Blaha Florist in Etna. 
