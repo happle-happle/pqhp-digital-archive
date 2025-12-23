@@ -75,7 +75,7 @@ These 12 mixtapes were made by DJs Donald Sheffey and Larry Seaman respectively 
 
 ---
 
-### [The David Kornely Marionette and Mixtape Collection](./collections/David-Kornely-Collection/David-Kornely-Description.png)
+### [The David Kornely Marionette and Mixtape Collection](./collections/David-Kornely-Collection/David-Kornely-Description.md)
 
 [![David with four of his marionettes](./collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](./collections/David-Kornely-Collection/David-Kornely-Description.md)
 
