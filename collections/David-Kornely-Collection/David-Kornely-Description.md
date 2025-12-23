@@ -9,9 +9,7 @@
 *(David poses with is Marionettes at the Puppet Palace)*
 
 ### Collection Description
-The collection contains a poster, recorded puppet show, and mixtapes created by David Kornely (DJ Name Curt Allen). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters around the SW Pennsylvania area, as well as a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the Lucky After Dark exhibition where his puppet "Elvira Frump" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role a DJ as WAMO and other stations, he would make mixtapes for friends.
-
-Age 78, a longtime resident of Etna and Blawnox PA, passed away peacefully on July 29th, 2022 after a long illness. David was the owner and creator of Kornely's Marionettes, who entertained children and adults throughout the Pittsburgh area at local malls with his marionette show. David also owned and operated Michael Blaha Florist in Etna. 
+This collection contains one poster, one recorded puppet show of "Korneliy's Marionettes", and several mixtapes created by David Kornely (DJ Name "Curt Allen"). These materials were lent for digitization by David to Harrison Apple in 2014. David was a well known marionette artist, performing for mainstream audiences in malls and theaters in the SW Pennsylvania area. He was also a beloved performer in Pittsburghs gay and lesbian nightlife scene of the 1970s and 80s. He is pictured in photographs from the ["Lucky After Dark exhibition"](https://pittsburghqueerhistory.com/wp-content/uploads/2023/05/lucky-after-dark-catalog.pdf) where his puppet "Elvira Frump" was well known for verbally eviscerating the Pittsburgh bar & club regulars as part of her act. David loved music, especially disco, and in addition to his role as a radio and club DJ, he would make personal mixtapes for friends. David also owned and operated Michael Blaha Florist in Etna. 
 
 ### Series *(Items within the collection organized by topic or media)*
 - [**Series 1: Poster**](#series-1-Poster) - David had one poster advertising his DJ career as Curt Allen.
@@ -26,9 +24,9 @@ Age 78, a longtime resident of Etna and Blawnox PA, passed away peacefully on Ju
 
 ### Series 2: VHS
 
-[![David Kornely's Big Show](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://youtu.be/HfEEVsm6dNM?si=c0kBXdmwDBka7AJ_)
+[![David Kornely's "The Big Show"](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://youtu.be/HfEEVsm6dNM?si=c0kBXdmwDBka7AJ_)
 
-[David Kornely "The Big Show"](https://youtu.be/HfEEVsm6dNM?si=c0kBXdmwDBka7AJ_)
+[Kornely's Marionettes "The Big Show" hosted by Mr. Wobbles](https://youtu.be/HfEEVsm6dNM?si=c0kBXdmwDBka7AJ_)
 
 
 ### Series 3: Mixtapes
