@@ -27,7 +27,7 @@ This collection contains one poster, one recorded puppet show of "Korneliy's Mar
 
 [![David Kornely's "The Big Show"](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](https://youtu.be/HfEEVsm6dNM?si=c0kBXdmwDBka7AJ_)
 
-[Kornely's Marionettes "The Big Show" hosted by Mr. Wobbles](https://youtu.be/HfEEVsm6dNM?si=c0kBXdmwDBka7AJ_)
+<a href="https://youtu.be/HfEEVsm6dNM?si=c0kBXdmwDBka7AJ_" target="_blank" rel="noopener noreferrer">Kornely's Marionettes "The Big Show" hosted by Mr. Wobbles</a>
 
 
 ### Series 3: Mixtapes
