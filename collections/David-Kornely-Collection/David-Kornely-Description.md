@@ -2,7 +2,7 @@
 
 [Return to Main](../../README.md)
 
-## Charles Tierney Collection
+## David Kornely Collection
 
 [![a man poses in a crowd of 4 marionettes dressed in feather boas](/collections/David-Kornely-Collection/image-files/kornely-marionettes-thumb.png)](./David-Kornely-Description.md)
 
