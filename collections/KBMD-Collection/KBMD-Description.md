@@ -18,6 +18,10 @@ This collection consists of artifacts from Pegasus Lounge at 818 Liberty Avenue,
 
 ### Series 1: Pegasus Photo Album 1
 
+| Thumbnail | Title | Description |
+| :---         |     :---:      |          :--- |
+| <img src="/collections/Charles-Tierney-Collection/image-files/Series-2/CP_VentureInn001 Large.jpeg" width="200"/>   | Chuck and Chuck smooch     | This series contains print color photographs and newsclippings loosely organized in 1 of 4 photo albums, belonging to David Morrow and kept after his death by Scott Noxon. The photographs show the grand opening at Pegasus on June 20th 1981 as well as Halloween Parties, stage shows, and advertisements for performers. Please bear in mind that Pegasus was a public bar and restaurant. Reproduction and interpretation of these photographs do not determine the sexual identity of those pictured.    |
+| placeholder     | placeholder       | placeholder      |
 
 
 --- 
