@@ -23,8 +23,11 @@ Charles “Chuck” P. Tierney (b. March 29, 1948 – d. October 11, 2017) was a
 
 ### Series 1: Ephemera Items
 
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret001 Large.jpeg" width="400"/> <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret002 Large.jpeg" width="400"/>
-<img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecretFrame001 Large.jpeg" width="400"/>
+| Artifact | Title | Description |
+| :---         |     :---:      |          :--- |
+|  <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret001 Large.jpeg" width="400"/>  |   1984 Advertisement by the Pittsburgh Tavern Guild   |  The Tavern Guild ran this ad asking "Quick! Name Gay America's Best Kept Secret" in local and national publications. They also created a calendar featuring one bar for each month with photographs of their interiors. Bars included have their logos on the bottom of the page including The Crossover Lounge, Jackson's Lounge, Pegasus Lounge, Traveler's Social Club, Zack's Fourth Avenue, Holiday Bar, Norreh Social Club, Players 430, The Trucking Co., as well as their sponsored events of gay picnics and a visiting performance by the San Francisco Gay Men's Chorus   |
+|  <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret002 Large.jpeg" width="400"/>   |   Back page of advertisement   |   Reverse side of the page discusses the PA Governor's Council on Gay & Lesbian Affairs, Ohio Political Action, and Bars in Baltimore   |
+|   <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecretFrame001 Large.jpeg" width="400"/>   |   Frame backing from advertisement kept by Chuck Tierney   |   The frame's  back board includes a newsclipping from his other business, Gilbert's Restaurant. According to Chuck, he was very nervous when some of his tavern guild collaborators appeared on television in the restaurant bringing Chuck's own identity and politics as a gay man into another sphere of his social and business life.   |
 
 <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/Holiday_PlayingCard_001 Large.jpeg" width="400"/>
 
