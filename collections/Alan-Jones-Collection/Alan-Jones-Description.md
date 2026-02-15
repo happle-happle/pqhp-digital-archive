@@ -6,7 +6,7 @@
 
 [![bluecardstock condom kit](/collections/Alan-Jones-Collection/image-files/jonesthumbnail.jpeg)](./Alan-Jones-Description.md)
 
-*A condom kit by HERO (Balitmore Maryland) with the words "a ring for your next engagement" and "the ultimate token of your love" and 1 lifestyles condom in a silver foil packet.*
+*A condom kit by Condomania (Los Angeles, CA) licensed in 1990 by MHM Schreiber, containing 3 lubricated condoms.*
 
 ### Collection Description
 
