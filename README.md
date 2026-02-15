@@ -116,8 +116,8 @@ The Scott Noxon Collection contains material from the bars and nightclubs owned 
 
 ---
 
-### [The Alan Jones Condom Collection](./collections/Alan-Jones-Collection/Alan-Jones-Collection-Description.md)
-<a href="./collections/Alan-Jones-Collection/Alan-Jones-Collection-Description.md"><img src="/collections/Alan-Jones-Collection/image-files/jonesthumbnail.jpeg" width="200"/></a>
+### [The Alan Jones Condom Collection](./collections/Alan-Jones-Collection/Alan-Jones-Description.md)
+<a href="./collections/Alan-Jones-Collection/Alan-Jones-Description.md"><img src="/collections/Alan-Jones-Collection/image-files/jonesthumbnail.jpeg" width="200"/></a>
 
 Alan Jones worked in Pittsburgh public health specializing as a case worker at the Pittsburgh AIDS Task Force (now Allies Health + Wellness) since the beginning of the 1990s. In addition to over 30 years caring for clients of PATF, he is a frequently requested speaker about surviving the epidemic and the culture wars over sexual identity. When Harrison Apple began their research on Robert "Lucky" Johns, Alan was their first interview subject. Alan's life story and career interweaves a love of history and a passionate advocacy for the breadth of experience that makes up his close circle and broader community. Alan endears himself to many and as a result, he often received and collected safer-sex kits and condoms from around the world... [Read more](./collections/Alan-Jones-Collection/Alan-Jones-Description.md)
 
