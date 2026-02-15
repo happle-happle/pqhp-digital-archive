@@ -115,17 +115,15 @@ Alan Jones worked in Pittsburgh public health specializing as a case worker at t
 |  <img src="/collections/Alan-Jones-Collection/image-files/Series-2/shaveadick-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-2/shaveadick-b.jpeg"/>  |  Shave-a-dick  | A postcard from Deutsche AIDS-hilfe and OOPSDESIGN with instructions to shave penis and testicles, it reads "Shave-A-Dick Information Über Rasur Sharfe Klingen...100% Saubere Klingen...100% Klingentausch...0% Sperma Auf Frisch Rasierte Haut...0% Streichelfaktor...100%" meaning "Shave-A-Dick Information About Shaving Sharp Blades...100% Clean Blades...100% Blade Replacement...100% Semen on Freshly Shaved Skin...0% Caress Factor...100%"      |
 |  <img src="/collections/Alan-Jones-Collection/image-files/Series-2/kussen-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-2/kussen-b.jpeg"/>  |  Küssen, Geil und safe  | A postcard from Deutsche AIDS-hilfe and photo by Ingo Taubhorn design by Trash line. The photo shows two men kissing. The overlaid text says "Küssen, geil und safe" meaning "Kissing, hot and safe."      |
 |  <img src="/collections/Alan-Jones-Collection/image-files/Series-2/m4m3-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-2/m4m3-b.jpeg"/>  |  I feel so stupid  | #2 in a series of postcards from the Pittsburgh AIDS Task Force featuring photos by artists, this one by Lisa Stoeckle, and first person narratives about experience with and knowledge of HIV Transmission among men.      |
-|  <img src="/collections/Alan-Jones-Collection/image-files/Series-2/ pop-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-2/ pop-b.jpeg"/>  |  Pop Pour Homme  | A condom package fom USPOP POP pour home, with a globe watermark and a baby's face in the "O" with a line through it.      |
-|  <img src="/collections/Alan-Jones-Collection/image-files/Series-2/aidsfact-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-2/aidsfact-b.jpeg" <img src="/collections/Alan-Jones-Collection/image-files/Series-2/aidsfact-c.jpeg" <img src="/collections/Alan-Jones-Collection/image-files/Series-2/aidsfact-d.jpeg" <img src="/collections/Alan-Jones-Collection/image-files/Series-2/aidsfact-e.jpeg" <img src="/collections/Alan-Jones-Collection/image-files/Series-2/aidsfact-f.jpeg"/>  |  AIDSfactline  | A condom kit from the Pennsylvania Department of Health Bureau of HIV/AIDS it includes two instructional packets on how to correctly use condoms by HERO (health education resource organization) and lifestyle condoms.      |
-
-
-
-|  <img src="/collections/Alan-Jones-Collection/image-files/Series-2/.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-2/.jpeg"/>  |  Title  | Description      |
 
 
 ### Series 3: Safer Sex Kits
 | Artifact | Title | Description |
 | :---         |     :---:      |          :--- |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-3/pop-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-3/pop-b.jpeg"/>  |  Pop Pour Homme  | A condom package fom USPOP POP pour home, with a globe watermark and a baby's face in the "O" with a line through it.      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-3/aidsfact-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-3/aidsfact-b.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-3/aidsfact-c.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-3/aidsfact-d.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-3/aidsfact-e.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-3/aidsfact-f.jpeg"/>  |  AIDSfactline  | A condom kit from the Pennsylvania Department of Health Bureau of HIV/AIDS it includes two instructional packets on how to correctly use condoms by HERO (health education resource organization) and lifestyle condoms.      |
+
+
 |  <img src="/collections/Alan-Jones-Collection/image-files/Series-3/.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-3/.jpeg"/>  |  Title  | Description      |
 
 ### Series 4: Condom Packages
