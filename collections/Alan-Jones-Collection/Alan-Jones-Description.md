@@ -4,9 +4,9 @@
 
 ## Alan Jones Collection
 
-[![alt-text](/collections/Alan-Jones-Collection/image-files/charles-tierney-collectionthumb.png)](./Alan-Jones-Description.md)
+[![bluecardstock condom kit](/collections/Alan-Jones-Collection/image-files/jonesthumbnail.jpeg)](./Alan-Jones-Description.md)
 
-*Caption*
+*A condom kit by HERO (Balitmore Maryland) with the words "a ring for your next engagement" and "the ultimate token of your love" and 1 lifestyles condom in a silver foil packet.*
 
 ### Collection Description
 
@@ -25,10 +25,10 @@ Alan Jones worked in Pittsburgh public health specializing as a case worker at t
 
 | Artifact | Title | Description |
 | :---         |     :---:      |          :--- |
-|  <img src="/collections/Charles-Tierney-Collection/image-files/Series-1/GayAmericaSecret001 Large.jpeg" width="400"/>  |   1984 Advertisement by the Pittsburgh Tavern Guild  | description   |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-1/Deutsche-hilfe-001a.jpeg" width="400"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-1/Deutsche-hilfe-001b.jpeg" width="400"/>  |   Deutsche AIDS-Hilfe Coaster  | Condom education drink coaster. Two color (Black and Cyan Blue) offset print on cardboard coaster, showing a face with an open mouth and closed eyes facing a penis ejaculating semen with an arrow indicating to turn it over. The opposite side is in black and orange, showing a penis covered in a condom.   |
 
-**Venture Inn 923 Liberty Ave, Downtown Pittsburgh**
 
+### Series 2: Postcards
 
 
 ### Series 3: Safer Sex Kits
