@@ -26,6 +26,7 @@ Alan Jones worked in Pittsburgh public health specializing as a case worker at t
 | Artifact | Title | Description |
 | :---         |     :---:      |          :--- |
 |  <img src="/collections/Alan-Jones-Collection/image-files/Series-1/Deutsche-hilfe-001a.jpeg" width="400"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-1/Deutsche-hilfe-001b.jpeg" width="400"/>  |   Deutsche AIDS-Hilfe Coaster  | Condom education drink coaster. Two color (Black and Cyan Blue) offset print on cardboard coaster, showing a face with an open mouth and closed eyes facing a penis ejaculating semen with an arrow indicating to turn it over. The opposite side is in black and orange, showing a penis covered in a condom.   |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-1/Deutsche-hilfe-002a.jpeg" width="400"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-1/Deutsche-hilfe-002b.jpeg" width="400"/>  |   Deutsche AIDS-Hilfe Coaster  | Condom education drink coaster. Multicolor (red, pink, and black) with the text "Schwuler sex sicher" above two men having sex, and on the back the image of a packaged condom with the text "kondome schützen vor hiv und anderen sexuell übertragbaren erregern." Meaning, "Gay sex safely" and "Condoms protect against HIV and other sexually transmitted infections (STIs)"   |
 
 
 ### Series 2: Postcards
