@@ -155,7 +155,21 @@ Alan Jones worked in Pittsburgh public health specializing as a case worker at t
 ### Series 4: Condom Packages
 | Artifact | Title | Description |
 | :---         |     :---:      |          :--- |
-|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/condompal.jpeg"/>  |  Title  | Description      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/condompal.jpeg"/>  |  Condom Pal  | A condom pack from Total Access Group with one CR brand condom and a folded instruction on how to wear a condom.      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/perfect-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/perfect-b.jpeg"/>  |  Come Closer Perfect  | A condom pack in a novelty necklace with beaded lanyard, 1 condom, and an info pack on how and why to use a condom      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/patf-keychain.jpeg"/>  |  PATF Condom Keychain  | A condom pack from the Pittsburgh AIDS Task Force with 1 LifeStyles condom expiring May 2009 including a sticker from PATF for free testing information.      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/lovesick-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/lovesick-b.jpeg"/>  |  How to Keep from Getting Love Sick  | 2 keychain condom packs reading "how to keep from getting love sick" and "love me tender" with 1 condom with an expiration date of October 2004, the graphic by the Global Protection Corp copyright 1994.      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/dcfaces-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/dcfaces-b.jpeg"/>  |  DCFaces Compact  | A makeup compact with a mirror and accordion fold information packet about how and why to use condoms.      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/goldcircle.jpeg"/>  |  Gold Circle Coin condoms  | 3 gold circle coin condoms, a novelty condom by Aladan (Dotham Alabama) as seen in "Pretty Woman" with an expiration date of September 2001      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/midnightkit-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/midnightkit-b.jpeg"/>  |  Midnight Cowboy Kit  | A plastic bag with condoms and lube distributed by the Galaei Project through the Midnight Cowboy Project      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/allies-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/allies-b.jpeg"/>  |  Allies Health and Wellness Kit  | A plastic drawstring bag with a card for Allies Health and Wellness, the later iteration of Pittsburgh AIDS Task Force      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/lifestylespack.jpeg"/>  |  Lifestyles Variety Pack  | A plastic bag with a variety of condoms from LifeStyles including the "easy open" discs with expiration dates reaching March 2003      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/lubevariety.jpeg"/>  |  Lube Variety Pack  | 4 single use lube packets from Wet, ID, and Joe Lube with additional label Jose Lube      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/handdandy-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/handdandy-b.jpeg"/>  |  Handydandy Lube and Handbook  | A single use packet of lubricant and info from Handydandy.ca about poz-neg relationships      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/easy123-patf.jpeg"/>  |  Pittsburgh AIDS Task Force Safer Sex Kit  | A photo illustration of how to use a condom from Pittsburgh AIDS Task Force      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/realitycondom-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/realitycondom-b.jpeg"/>  |  Reality Condom  | Reality Female Condom Intended to provide protection against Pregnancy and Sexually Transmitted Diseases including AIDS (HIV Infection)      |
+|  <img src="/collections/Alan-Jones-Collection/image-files/Series-4/er2lovepack-a.jpeg"/> <img src="/collections/Alan-Jones-Collection/image-files/Series-4/er2lovepack-b.jpeg"/>  |  ER2 Love Pack  | ER2 love pack with 1 condom and 1 single use lubricant, distributed as part of the Festival of Friendship August 25 2002      |
+
 
 
 --- 
