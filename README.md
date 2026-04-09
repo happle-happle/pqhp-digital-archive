@@ -4,7 +4,10 @@
 Welcome to the PQHP digital archives page! Here, you will find selected archives organized into collections that have been donated with the permission to be digitially shared with the public. 
 
 
-*Selected collections are donated with permission to be digitally shared with the public. Note all preservation projects by the PQHP are permitted to be shared publically. For more information, please contact Harrison Apple happle@andrew.cmu.edu*
+## Use policy
+*Selected collections are donated with permission to be digitally shared with the public.*
+
+*If you intend to use material from this digital archives for your own purposes, please cite the collection in your work so that viewers can understand where the material comes from.  For more information, please contact Harrison Apple happle@andrew.cmu.edu*
 
 ## How to Use?
 
