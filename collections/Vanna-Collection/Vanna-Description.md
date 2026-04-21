@@ -70,7 +70,7 @@ Miss Tri-State 1993, Copyright Held by Tri-State Pageantry, Contact [Kierra Dars
 ["The Masquerade" Starring Vanna, Pegasus, November 17 1994](https://vimeo.com/267347456?share=copy)
 
 [![a white drag queen in a pink tutu dress and blonde wig stands on stage](/collections/Vanna-Collection/image-files/Series-4/vanna30thumb.png)](https://vimeo.com/267352670)
-["The Masquerade" Starring Vanna, Pegasus, November 17 1994](https://vimeo.com/267352670)
+[Vanna's 30th Birthday](https://vimeo.com/267352670)
 
 [![a black queen lip synchs in the spotlight, a close up of her face, her hand held up to her cheek and ear, wearing a crystal tiara](/collections/Vanna-Collection/image-files/Series-4/divamilanthumb.png)](https://vimeo.com/268417204)
 [Diva! The Many Faces of Milan, Pegasus, August 17 1994](https://vimeo.com/268417204)
