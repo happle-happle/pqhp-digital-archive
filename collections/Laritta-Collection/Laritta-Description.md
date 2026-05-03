@@ -50,17 +50,25 @@ Larritta Not So Young is a drag performer in Pittsburgh, Pennsylvania. She was a
 
 ### Series 3: "Miss Big and Beautiful" Items
 
-[![A black performer poses with their legs crossed and arms out on stage](/collections/Vanna-Collection/image-files/Series-3/vannacompanythumb.png)](https://vimeo.com/269515634)
-[Vanna & Company (Mister Pittsburgh 1997)](https://vimeo.com/269515634)
+[![a performer in a sequin gown stands in spotlight at a podium](/collections/Laritta-Collection/image-files/series-3/msbigbeautiful89.jpg)](https://vimeo.com/235253473)
+[Miss Big and Beautiful 1989](https://vimeo.com/235253473)
 
 ---
 ### Series 4: "Bar Shows" Items
-[![a white drag queen in a white robe and red wig speaks onstage with a microphone surrounded by christams deocrations](/collections/Vanna-Collection/image-files/Series-4/twelvedragsthumb.png)](https://vimeo.com/267335600?share=copy)
-[Twelve Drags of Christmas, Pegasus](https://vimeo.com/267335600?share=copy)
+[![a black and white image of novelty chattering teeth](/collections/Laritta-Collection/image-files/series-4/sq_laritta-8889909.jpg)](https://vimeo.com/237305652)
+[Larritta 88 89 90](https://vimeo.com/237305652)
 
+[![a drag queen with a long brown ponytail raises on arm on stage ](/collections/Laritta-Collection/image-files/series-4/sq_larittabirthday50.jpg)](https://vimeo.com/237313095)
+[Larritta Not So Young Show V LSD 50th Birthday](https://vimeo.com/237313095)
 
+[![a drag queen with a large curly wig stands on stage grasping a microphone ](/collections/Laritta-Collection/image-files/series-4/sq_tiffanybobby1980.jpg)](https://vimeo.com/239057830)
+[Tiffany and Bobby Pudgy at Chipendales c. 1980](https://vimeo.com/239057830)
 
---- 
+[![three white men sit on barstools on stage with a sign that says "dating game"](/collections/Laritta-Collection/image-files/series-4/sq_softball90datinggame91.jpg)](https://vimeo.com/234644884)
+[Softball Show 1990 and Dating Game 1991-1](https://vimeo.com/234644884)
+
+[![three white men sit on barstools on stage with a sign that says "dating game"](/collections/Laritta-Collection/image-files/series-4/sq_softballpart2.jpg)](https://vimeo.com/234646833)
+[Softball Show 1990 and Dating Game 1991-2](https://vimeo.com/234646833)
 
 [Top of Page](#pittsburgh-queer-history-project)
 
