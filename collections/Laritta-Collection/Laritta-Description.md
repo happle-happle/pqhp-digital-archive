@@ -19,16 +19,35 @@ Larritta Not So Young is a drag performer in Pittsburgh, Pennsylvania. She was a
 
 ---
 ### Series 1: "Gay AID" Items
-[![three performers hug on stage](/collections/Laritta-Collection/image-files/Series-1/dayafterthatthumb.png)](https://vimeo.com/267347075)
-["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
+[![three performers hug on stage](/collections/Laritta-Collection/image-files/series-1/gayaid95.jpg)](https://vimeo.com/235238362)
+[Gay Aid 95](https://vimeo.com/235238362)
+
+[![white performer with short brown hair stands at microphone](/collections/Laritta-Collection/image-files/series-1/gayaid94.jpg)](https://vimeo.com/235233564)
+[Gay Aid 94](https://vimeo.com/235233564)
+
+[![rock band performs on stage](/collections/Laritta-Collection/image-files/series-1/gayaid87.jpg)](https://vimeo.com/232841138)
+[Gay Aid 87](https://vimeo.com/232841138)
+
+[![for performers on stage, 2 men and 2 women all singing the word "shelf" is visible on a slide projection behind them](/collections/Laritta-Collection/image-files/series-1/gayaid88.jpg)](https://vimeo.com/232854265)
+[Gay Aid 88](https://vimeo.com/232854265)
 
 ---
 ### Series 2: "Miss Pittsburgh Pageants" Items
-[![A white drag queen sits in a chair with her blonde wig being sprayed](/collections/Vanna-Collection/image-files/Series-2/xmasinjulythumb.png)](https://vimeo.com/267347075)
-[Vanna's Christmas in July Talent Show, Pegasus](https://vimeo.com/267341557)
+[![A white drag queen with a dark beard dances on stage in an inflatable children's pool](/collections/Laritta-Collection/image-files/series-2/mspgh89.jpg)](https://vimeo.com/237486984)
+[Miss Pittsburgh 1989](https://vimeo.com/237486984)
 
+[![drag queens holding oversized cardboard chess pieces in front of themselves stand on stage](/collections/Laritta-Collection/image-files/series-2/mspgh93.jpg)](https://vimeo.com/232994404)
+[Miss Pittsburgh 1993](https://vimeo.com/232994404)
 
----
+[![a white queen in sequens and blonde hair speaks closely into a microphone](/collections/Laritta-Collection/image-files/series-2/mspgh95.jpg)](https://vimeo.com/233003970)
+[Miss Pittsburgh 1995](https://vimeo.com/233003970)
+
+[![a black queen in a white dress with feather details stands in front of a crown shaped backdrop](/collections/Laritta-Collection/image-files/series-2/mspgh96.jpg)](https://vimeo.com/234624335)
+[Miss Pittsburgh 1996](https://vimeo.com/234624335)
+
+[![a black queen Milan Tre'zur in a satin dress stands in front of a microphone](/collections/Laritta-Collection/image-files/series-2/mspgh97.jpg)](https://vimeo.com/234631909)
+[Miss Pittsburgh 1997](https://vimeo.com/234631909)
+
 ### Series 3: "Miss Big and Beautiful" Items
 
 [![A black performer poses with their legs crossed and arms out on stage](/collections/Vanna-Collection/image-files/Series-3/vannacompanythumb.png)](https://vimeo.com/269515634)
