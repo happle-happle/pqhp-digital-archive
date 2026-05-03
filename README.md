@@ -26,6 +26,13 @@ Michael “Vanna” Obusek (b. July 10, 1966) is former staff of the Travelers S
 
 
 ---
+### [Laritta Not-So-Young Collection](./collections/Laritta-Collection/Laritta-Description.md)
+
+[![drag queen in large blonde curly wig](./collections/Laritta-Collection/image-files/sq_larittacollection.png)](./collections/Laritta-Collection/Laritta-Description.md)
+
+The Larritta Not So Young Collection contains videos - in the form of DVDs and digital surrogates - which document performances at Pegasus nightclub in Pittsburgh, Pennsylvania. The collection includes videos of Gay Aid fundraisers, Miss Pittsburgh Pageants, Miss Big and Beautiful pageants, and other drag shows. Larritta Not So Young is a drag performer in Pittsburgh, Pennsylvania. She was active in the drag scene during the 1980s and 1990s... [Read More](./collections/Laritta-Collection/Laritta-Description.md)
+
+---
 
 ### [Marsha Monster Mellow Collection](./collections/Marsha-Collection/Marsha-Description.md)
 
