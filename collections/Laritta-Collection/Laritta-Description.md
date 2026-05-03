@@ -19,16 +19,16 @@ Larritta Not So Young is a drag performer in Pittsburgh, Pennsylvania. She was a
 
 ---
 ### Series 1: "Gay AID" Items
-[![three performers hug on stage](/collections/Laritta-Collection/image-files/series-1/gayaid95.jpg)](https://vimeo.com/235238362)
+[![three performers hug on stage](/collections/Laritta-Collection/image-files/series-1/sq_gayaid95.jpg)](https://vimeo.com/235238362)
 [Gay Aid 95](https://vimeo.com/235238362)
 
-[![white performer with short brown hair stands at microphone](/collections/Laritta-Collection/image-files/series-1/gayaid94.jpg)](https://vimeo.com/235233564)
+[![white performer with short brown hair stands at microphone](/collections/Laritta-Collection/image-files/series-1/sq_gayaid94.jpg)](https://vimeo.com/235233564)
 [Gay Aid 94](https://vimeo.com/235233564)
 
-[![rock band performs on stage](/collections/Laritta-Collection/image-files/series-1/gayaid87.jpg)](https://vimeo.com/232841138)
+[![rock band performs on stage](/collections/Laritta-Collection/image-files/series-1/sq_gayaid87.jpg)](https://vimeo.com/232841138)
 [Gay Aid 87](https://vimeo.com/232841138)
 
-[![for performers on stage, 2 men and 2 women all singing the word "shelf" is visible on a slide projection behind them](/collections/Laritta-Collection/image-files/series-1/gayaid88.jpg)](https://vimeo.com/232854265)
+[![for performers on stage, 2 men and 2 women all singing the word "shelf" is visible on a slide projection behind them](/collections/Laritta-Collection/image-files/series-1/sq_gayaid88.jpg)](https://vimeo.com/232854265)
 [Gay Aid 88](https://vimeo.com/232854265)
 
 ---
