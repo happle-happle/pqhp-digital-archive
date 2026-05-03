@@ -19,7 +19,7 @@ Larritta Not So Young is a drag performer in Pittsburgh, Pennsylvania. She was a
 
 ---
 ### Series 1: "Gay AID" Items
-[![people stand on stage in front of a lit sign reading "the day after that"](/collections/Vanna-Collection/image-files/Series-1/dayafterthatthumb.png)](https://vimeo.com/267347075)
+[![three performers hug on stage](/collections/Laritta-Collection/image-files/Series-1/dayafterthatthumb.png)](https://vimeo.com/267347075)
 ["The Day After That" Benefit, Pegasus, February 23 1994](https://vimeo.com/267347075)
 
 ---
