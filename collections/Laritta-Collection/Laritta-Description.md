@@ -3,7 +3,7 @@
 
 ## Laritta Collection
 
-[![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/collections/Laritta-Collection/image-files/larittacollection.png)](./Laritta-Description.md)
+[![square framed image of a white drag queen in a blonde up-do wig casting her eyes downward](/collections/Laritta-Collection/image-files/sq_larittacollection.png)](./Laritta-Description.md)
 
 ### Collection Description
 The Larritta Not So Young Collection contains videos - in the form of DVDs and digital surrogates - which document performances at Pegasus nightclub in Pittsburgh, Pennsylvania. The collection includes videos of Gay Aid fundraisers, Miss Pittsburgh Pageants, Miss Big and Beautiful pageants, and other drag shows.
