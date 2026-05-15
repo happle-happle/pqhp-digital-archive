@@ -1,4 +1,4 @@
-# Browse the PQHP Collections On this Page
+# Browse the PQHP Collections Below
 
 ## What is PQHP Digital Archive?
 Welcome to the PQHP digital archives page! Here, you will find selected archives organized into collections that have been donated with the permission to be digitially shared with the public. 
