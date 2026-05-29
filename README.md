@@ -11,7 +11,7 @@ Welcome to the PQHP digital archives page! Here, you will find selected archives
 
 ## How to Use?
 
-Each collection is housed within the collections folder, organized by contributors. Navigate using the collections links below with their descriptions. Feel free to browse through all collections within the collections folder! 
+Each collection is housed within the collections folder, organized by contributors. Navigate using the collections links below with their descriptions. 
 
 *If you would like to contribute to this repo or donate archives to PQHP, please read "Contribution_Workflow" in this repo or reach out to Harrison Apple at happle@andrew.cmu.edu*
 
