@@ -11,7 +11,7 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 
 
 ### Series *(Items within the collection organized by topic or media)*
-- [**Series 1: VHS Tapes**](#series-1-VHS-Tapes-items) - VHS Tapes kept from performances at Pegasus (818 Liberty Avenue) as well as promotional material for screen play behind the bar.
+- [**Series 1: VHS Tapes**](#series-1-VHS-Tapes-items) - VHS Tapes kept from drag and gogo dancer performances at Pegasus (818 Liberty Avenue) as well as promotional material for screening behind the bar.
 - [**Series 2: Audio Cassette Mixtapes**](#series-2-Audio-Cassette-Mixtapes-items) - Mixtapes by Pegasus DJ's including Billy Burrs and Jimmy Lewis as well as commercial tapes and complications ordered for playing at the bar.
 
 ### Series 1: "VHS Tapes" Items
@@ -56,7 +56,7 @@ While at Pegasus, Vince passively collected media made by the performers and dj'
 [![audiocassette tape case with a print inside of a pegasus](/collections/Vince-Lewandowski-Collection/image-files/Series-2/jimmy-lewisthumbnail.png)](https://cleanertapes.limitedrun.com/products/853519-jimmy-lewis-and-milan-trezur-mixxxed-and-reworked-1993-cassette-tape)
 
 The mixtape collection includes 175 audio casssettes, many produced by the DJ's booked regularly by Pegasus including DJ Jimmy Lewis and Bill Burr.
-While the full collection is not currently digitally available, a copy of DJ Jimmy Lewis's November 1993 Pegasus Mixtape "Remixxxed and Reworked" is available [here](https://promo.theorchard.com/CxbETrhk6rh9XvGc1TKP) including a response track created by Pgh Producer [Juan Augusto LaFontaine](https://promo.theorchard.com/m0RwlnKtHowpLklKfYO5) of [Miscellaneous Records](https://www.misc-records.com/), artwork by [Mary Tremonte](https://www.marymacktremonte.org/)supported by the MS89 Screening Series, the Carnegie Museum of Art, the Frank-Ratchye STUDIO for Creative Inquiry and the Opportunity Fund. Copies of the tape are available for purchase from [CleanerTapes](https://cleanertapes.limitedrun.com/products/853519-jimmy-lewis-and-milan-trezur-mixxxed-and-reworked-1993-cassette-tape)
+While the full collection is not currently digitally available, a copy of DJ Jimmy Lewis's November 1993 Pegasus Mixtape "Remixxxed and Reworked" is available [here](https://promo.theorchard.com/CxbETrhk6rh9XvGc1TKP) including a response track created by Pgh Producer [Juan Augusto LaFontaine](https://promo.theorchard.com/m0RwlnKtHowpLklKfYO5) of [Miscellaneous Records](https://www.misc-records.com/), artwork by [Mary Tremonte](https://www.marymacktremonte.org/) supported by the MS89 Screening Series, the Carnegie Museum of Art, the Frank-Ratchye STUDIO for Creative Inquiry and the Opportunity Fund. Copies of the tape are available for purchase from [CleanerTapes](https://cleanertapes.limitedrun.com/products/853519-jimmy-lewis-and-milan-trezur-mixxxed-and-reworked-1993-cassette-tape)
 
 Further Uploads Pending
 
